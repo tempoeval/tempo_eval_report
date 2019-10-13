@@ -1,0 +1,16 @@
+\begin{tabular}{lrrrr}
+\toprule
+{} &  AOE1\_MEAN &  AOE1\_STDEV &  AOE2\_MEAN &  AOE2\_STDEV \\
+Estimator                           &            &             &            &             \\
+\midrule
+schreiber2018/fcn                   &   0.150400 &    0.334205 &   0.027536 &    0.082991 \\
+schreiber2018/cnn                   &   0.173095 &    0.350781 &   0.031914 &    0.092954 \\
+schreiber2018/ismir2018             &   0.203234 &    0.379000 &   0.029455 &    0.086972 \\
+schreiber2017/mirex2017             &   0.302352 &    0.440620 &   0.032321 &    0.093235 \\
+schreiber2017/ismir2017             &   0.302352 &    0.440620 &   0.032321 &    0.093235 \\
+schreiber2014/default               &   0.358880 &    0.454613 &   0.038605 &    0.101857 \\
+boeck2015/tempodetector2016\_default &   0.412919 &    0.560564 &   0.046965 &    0.110789 \\
+percival2014/stem                   &   0.427776 &    0.476496 &   0.034238 &    0.095158 \\
+davies2009/mirex\_qm\_tempotracker    &   0.466182 &    0.348386 &   0.214111 &    0.194645 \\
+\bottomrule
+\end{tabular}

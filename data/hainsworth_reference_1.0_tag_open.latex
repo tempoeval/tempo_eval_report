@@ -1,0 +1,28 @@
+\begin{tabular}{lr}
+\toprule
+{} &     Count \\
+Tag                &           \\
+\midrule
+BigBand            &  0.040541 \\
+Choral             &  0.130631 \\
+Classical          &  0.135135 \\
+ClassicalSolo      &  0.099099 \\
+Country            &  0.171171 \\
+Dance              &  0.180180 \\
+Folk               &  0.099099 \\
+Folk2              &  0.018018 \\
+Jazz               &  0.180180 \\
+Rock               &  0.135135 \\
+Rock/Pop           &  0.306306 \\
+div by 2           &  0.481982 \\
+div by 3 (triplet) &  0.036036 \\
+div by 4           &  0.220721 \\
+div by 6           &  0.004505 \\
+none               &  0.040541 \\
+rallantando        &  0.040541 \\
+rubato             &  0.117117 \\
+sudden change      &  0.018018 \\
+swing 16ths        &  0.054054 \\
+swing 8ths         &  0.162162 \\
+\bottomrule
+\end{tabular}

@@ -1,0 +1,15 @@
+\begin{tabular}{lrr}
+\toprule
+{} &  Accuracy1 &  Accuracy2 \\
+Estimator                           &            &            \\
+\midrule
+schreiber2018/cnn                   &   0.775666 &   0.879830 \\
+schreiber2018/fcn                   &   0.738902 &   0.881205 \\
+schreiber2014/default               &   0.708641 &   0.863699 \\
+schreiber2017/ismir2017             &   0.696261 &   0.864574 \\
+schreiber2017/mirex2017             &   0.694135 &   0.864699 \\
+boeck2015/tempodetector2016\_default &   0.691259 &   0.872702 \\
+percival2014/stem                   &   0.686007 &   0.844192 \\
+davies2009/mirex\_qm\_tempotracker    &   0.654120 &   0.795298 \\
+\bottomrule
+\end{tabular}

@@ -1,0 +1,13 @@
+\begin{tabular}{lrrrrrrr}
+\toprule
+{} &  Size &        Min &        Max &         Avg &      Stdev &  Sweet Oct. Start &  Sweet Oct. Coverage \\
+Estimator                           &       &            &            &             &            &                   &                      \\
+\midrule
+boeck2015/tempodetector2016\_default &   100 &  41.960000 &  187.50000 &   90.988100 &  31.623237 &              54.0 &                 0.67 \\
+davies2009/mirex\_qm\_tempotracker    &   100 &  80.749500 &  178.20600 &  123.002108 &  24.284657 &              87.0 &                 0.95 \\
+percival2014/stem                   &   100 &  60.092700 &  148.71900 &  102.907370 &  22.327072 &              70.0 &                 0.94 \\
+schreiber2014/default               &   100 &  59.931280 &  157.98990 &  101.333737 &  22.547205 &              68.0 &                 0.92 \\
+schreiber2017/ismir2017             &   100 &  41.360466 &  160.00073 &  109.272462 &  25.273444 &              69.0 &                 0.88 \\
+schreiber2017/mirex2017             &   100 &  41.360466 &  160.00073 &  109.272462 &  25.273444 &              69.0 &                 0.88 \\
+\bottomrule
+\end{tabular}

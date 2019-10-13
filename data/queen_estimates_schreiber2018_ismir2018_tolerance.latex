@@ -1,0 +1,15 @@
+\begin{tabular}{lrrr}
+\toprule
+{} &   P-Score &  One Correct &  Both Correct \\
+Estimator                           &           &              &               \\
+\midrule
+schreiber2018/fcn                   &  0.962809 &     1.000000 &      0.784314 \\
+schreiber2018/cnn                   &  0.958570 &     1.000000 &      0.764706 \\
+schreiber2014/default               &  0.914774 &     0.960784 &      0.705882 \\
+schreiber2017/ismir2017             &  0.908246 &     0.960784 &      0.647059 \\
+davies2009/mirex\_qm\_tempotracker    &  0.899497 &     0.960784 &      0.607843 \\
+boeck2015/tempodetector2016\_default &  0.896418 &     0.980392 &      0.490196 \\
+schreiber2017/mirex2017             &  0.832560 &     0.921569 &      0.490196 \\
+percival2014/stem                   &  0.784801 &     0.941176 &      0.000000 \\
+\bottomrule
+\end{tabular}

@@ -1,0 +1,9 @@
+\begin{tabular}{lrrrrrrr}
+\toprule
+{} &  Size &   Min &    Max &         Avg &      Stdev &  Sweet Oct. Start &  Sweet Oct. Coverage \\
+Reference &       &       &        &             &            &                   &                      \\
+\midrule
+1.0       &   664 &  53.0 &  200.0 &  136.659495 &  28.352389 &              91.0 &             0.881024 \\
+2.0       &   661 &  64.0 &  197.0 &  138.580938 &  25.914981 &              90.0 &             0.915280 \\
+\bottomrule
+\end{tabular}

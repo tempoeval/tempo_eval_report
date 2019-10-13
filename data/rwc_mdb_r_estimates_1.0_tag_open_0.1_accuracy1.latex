@@ -1,0 +1,13 @@
+\begin{tabular}{lrrrrrrrrr}
+\toprule
+{} &  Male &  Hi-hat only &    Guitar &  Female &  English vocals &  Drum sequences &  Bass &       4/4 &       3/4 \\
+Estimator                           &       &              &           &         &                 &                 &       &           &           \\
+\midrule
+boeck2015/tempodetector2016\_default &   0.8 &     1.000000 &  0.833333 &     0.9 &             0.8 &        0.866667 &  1.00 &  0.833333 &  1.000000 \\
+davies2009/mirex\_qm\_tempotracker    &   0.8 &     0.833333 &  0.750000 &     0.7 &             0.8 &        0.733333 &  0.75 &  0.666667 &  1.000000 \\
+percival2014/stem                   &   0.8 &     1.000000 &  0.833333 &     0.9 &             0.8 &        0.866667 &  1.00 &  0.833333 &  1.000000 \\
+schreiber2014/default               &   0.8 &     1.000000 &  0.833333 &     0.7 &             0.7 &        0.733333 &  1.00 &  0.750000 &  0.666667 \\
+schreiber2017/ismir2017             &   0.8 &     1.000000 &  0.833333 &     0.8 &             0.7 &        0.800000 &  1.00 &  0.833333 &  0.666667 \\
+schreiber2017/mirex2017             &   0.8 &     1.000000 &  0.833333 &     0.8 &             0.7 &        0.800000 &  1.00 &  0.833333 &  0.666667 \\
+\bottomrule
+\end{tabular}

@@ -1,0 +1,15 @@
+\begin{tabular}{lrrrrrrrr}
+\toprule
+{} &      Rock &    Pop &  International &  Instrumental &  Hip-Hop &   Folk &  Experimental &  Electronic \\
+Estimator                           &           &        &                &               &          &        &               &             \\
+\midrule
+boeck2015/tempodetector2016\_default &  0.973974 &  0.968 &          0.922 &         0.893 &    0.983 &  0.952 &      0.753754 &    0.955956 \\
+davies2009/mirex\_qm\_tempotracker    &  0.931932 &  0.924 &          0.850 &         0.840 &    0.947 &  0.880 &      0.726727 &    0.883884 \\
+percival2014/stem                   &  0.923924 &  0.914 &          0.848 &         0.847 &    0.958 &  0.866 &      0.646647 &    0.924925 \\
+schreiber2014/default               &  0.972973 &  0.967 &          0.923 &         0.898 &    0.974 &  0.952 &      0.789790 &    0.961962 \\
+schreiber2017/ismir2017             &  0.963964 &  0.966 &          0.894 &         0.905 &    0.970 &  0.945 &      0.739740 &    0.960961 \\
+schreiber2017/mirex2017             &  0.962963 &  0.965 &          0.889 &         0.905 &    0.967 &  0.944 &      0.734735 &    0.960961 \\
+schreiber2018/cnn                   &  0.985986 &  0.985 &          0.960 &         0.957 &    0.987 &  0.982 &      0.837838 &    0.985986 \\
+schreiber2018/fcn                   &  0.982983 &  0.978 &          0.959 &         0.950 &    0.995 &  0.969 &      0.873874 &    0.986987 \\
+\bottomrule
+\end{tabular}

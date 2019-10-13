@@ -1,0 +1,10 @@
+\begin{tabular}{lrrrrrrr}
+\toprule
+{} &  Size &       Min &         Max &         Avg &      Stdev &  Sweet Oct. Start &  Sweet Oct. Coverage \\
+Reference                                &       &           &             &             &            &                   &                      \\
+\midrule
+1.0                                      &  1000 &  38.00000 &  168.000000 &   94.269500 &  24.454194 &              66.0 &              0.80700 \\
+2.0                                      &   999 &  38.00000 &  168.000000 &   94.922422 &  24.413403 &              66.0 &              0.80981 \\
+GTZAN-Rhythm\_v2\_ismir2015\_lbd\_2015-10-28 &  1000 &  37.67582 &  339.288315 &  119.526017 &  40.133324 &              79.0 &              0.73900 \\
+\bottomrule
+\end{tabular}

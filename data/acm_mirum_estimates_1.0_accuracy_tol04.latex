@@ -1,0 +1,22 @@
+\begin{tabular}{lrr}
+\toprule
+{} &  Accuracy1 &  Accuracy2 \\
+Estimator                           &            &            \\
+\midrule
+schreiber2018/cnn                   &   0.764539 &   0.907092 \\
+schreiber2018/fcn                   &   0.763121 &   0.900709 \\
+schreiber2018/ismir2018             &   0.716312 &   0.897163 \\
+schreiber2014/default               &   0.692199 &   0.879433 \\
+boeck2015/tempodetector2016\_default &   0.685816 &   0.900000 \\
+echonest/version\_3\_2\_1              &   0.676596 &   0.853901 \\
+percival2014/stem                   &   0.670213 &   0.900000 \\
+schreiber2017/mirex2017             &   0.668794 &   0.892199 \\
+schreiber2017/ismir2017             &   0.666667 &   0.894326 \\
+gkiokas2012/default                 &   0.660993 &   0.897163 \\
+zplane/auftakt\_v3                   &   0.646099 &   0.865957 \\
+klapuri2006/percival2014            &   0.626950 &   0.886525 \\
+davies2009/mirex\_qm\_tempotracker    &   0.608511 &   0.864539 \\
+oliveira2010/ibt                    &   0.579433 &   0.860284 \\
+scheirer1998/percival2014           &   0.495745 &   0.714894 \\
+\bottomrule
+\end{tabular}

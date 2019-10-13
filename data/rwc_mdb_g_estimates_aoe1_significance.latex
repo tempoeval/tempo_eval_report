@@ -1,0 +1,13 @@
+\begin{tabular}{lrrrrrr}
+\toprule
+{} &  boeck2015/tempodetector2016\_default &  davies2009/mirex\_qm\_tempotracker &  percival2014/stem &  schreiber2014/default &  schreiber2017/ismir2017 &  schreiber2017/mirex2017 \\
+Estimator                           &                                      &                                   &                    &                        &                          &                          \\
+\midrule
+boeck2015/tempodetector2016\_default &                             1.000000 &                          0.396232 &           0.366785 &               0.098984 &                 0.228172 &                 0.295898 \\
+davies2009/mirex\_qm\_tempotracker    &                             0.396232 &                          1.000000 &           0.074638 &               0.020176 &                 0.012356 &                 0.040452 \\
+percival2014/stem                   &                             0.366785 &                          0.074638 &           1.000000 &               0.353188 &                 0.564812 &                 0.695673 \\
+schreiber2014/default               &                             0.098984 &                          0.020176 &           0.353188 &               1.000000 &                 0.983690 &                 0.829777 \\
+schreiber2017/ismir2017             &                             0.228172 &                          0.012356 &           0.564812 &               0.983690 &                 1.000000 &                 0.732049 \\
+schreiber2017/mirex2017             &                             0.295898 &                          0.040452 &           0.695673 &               0.829777 &                 0.732049 &                 1.000000 \\
+\bottomrule
+\end{tabular}

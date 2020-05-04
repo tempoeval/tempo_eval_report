@@ -1,13 +1,16 @@
-\begin{tabular}{lrrrrrr}
+\begin{tabular}{lrrrrrrrrr}
 \toprule
-{} &  boeck2015/tempodetector2016\_default &  davies2009/mirex\_qm\_tempotracker &  percival2014/stem &  schreiber2014/default &  schreiber2017/ismir2017 &  schreiber2017/mirex2017 \\
-Estimator                           &                                      &                                   &                    &                        &                          &                          \\
+{} &  boeck2015/tempodetector2016\_default &  davies2009/mirex\_qm\_tempotracker &  percival2014/stem &  schreiber2014/default &  schreiber2017/ismir2017 &  schreiber2017/mirex2017 &  schreiber2018/cnn &  schreiber2018/fcn &  schreiber2018/ismir2018 \\
+Estimator                           &                                      &                                   &                    &                        &                          &                          &                    &                    &                          \\
 \midrule
-boeck2015/tempodetector2016\_default &                                1.000 &                              0.50 &              1.000 &                  0.375 &                    1.000 &                    1.000 \\
-davies2009/mirex\_qm\_tempotracker    &                                0.500 &                              1.00 &              0.250 &                  1.000 &                    0.250 &                    0.250 \\
-percival2014/stem                   &                                1.000 &                              0.25 &              1.000 &                  0.125 &                    1.000 &                    1.000 \\
-schreiber2014/default               &                                0.375 &                              1.00 &              0.125 &                  1.000 &                    0.125 &                    0.125 \\
-schreiber2017/ismir2017             &                                1.000 &                              0.25 &              1.000 &                  0.125 &                    1.000 &                    1.000 \\
-schreiber2017/mirex2017             &                                1.000 &                              0.25 &              1.000 &                  0.125 &                    1.000 &                    1.000 \\
+boeck2015/tempodetector2016\_default &                                1.000 &                              0.50 &              1.000 &                  0.375 &                    1.000 &                    1.000 &              1.000 &              1.000 &                    1.000 \\
+davies2009/mirex\_qm\_tempotracker    &                                0.500 &                              1.00 &              0.250 &                  1.000 &                    0.250 &                    0.250 &              0.250 &              0.250 &                    0.250 \\
+percival2014/stem                   &                                1.000 &                              0.25 &              1.000 &                  0.125 &                    1.000 &                    1.000 &              1.000 &              1.000 &                    1.000 \\
+schreiber2014/default               &                                0.375 &                              1.00 &              0.125 &                  1.000 &                    0.125 &                    0.125 &              0.125 &              0.125 &                    0.125 \\
+schreiber2017/ismir2017             &                                1.000 &                              0.25 &              1.000 &                  0.125 &                    1.000 &                    1.000 &              1.000 &              1.000 &                    1.000 \\
+schreiber2017/mirex2017             &                                1.000 &                              0.25 &              1.000 &                  0.125 &                    1.000 &                    1.000 &              1.000 &              1.000 &                    1.000 \\
+schreiber2018/cnn                   &                                1.000 &                              0.25 &              1.000 &                  0.125 &                    1.000 &                    1.000 &              1.000 &              1.000 &                    1.000 \\
+schreiber2018/fcn                   &                                1.000 &                              0.25 &              1.000 &                  0.125 &                    1.000 &                    1.000 &              1.000 &              1.000 &                    1.000 \\
+schreiber2018/ismir2018             &                                1.000 &                              0.25 &              1.000 &                  0.125 &                    1.000 &                    1.000 &              1.000 &              1.000 &                    1.000 \\
 \bottomrule
 \end{tabular}

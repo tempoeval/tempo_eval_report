@@ -5,9 +5,9 @@ Estimator                           &            &            \\
 \midrule
 schreiber2018/cnn                   &   0.941176 &   0.960784 \\
 schreiber2018/fcn                   &   0.882353 &   0.921569 \\
+schreiber2017/mirex2017             &   0.882353 &   0.980392 \\
+schreiber2017/ismir2017             &   0.882353 &   0.960784 \\
 percival2014/stem                   &   0.843137 &   0.941176 \\
-schreiber2017/mirex2017             &   0.823529 &   0.960784 \\
-schreiber2017/ismir2017             &   0.823529 &   0.960784 \\
 boeck2015/tempodetector2016\_default &   0.823529 &   0.960784 \\
 schreiber2014/default               &   0.823529 &   0.901961 \\
 davies2009/mirex\_qm\_tempotracker    &   0.764706 &   0.921569 \\

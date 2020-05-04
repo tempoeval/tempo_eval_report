@@ -1,13 +1,16 @@
-\begin{tabular}{lrrrrrr}
+\begin{tabular}{lrrrrrrrrr}
 \toprule
-{} &  boeck2015/tempodetector2016\_default &  davies2009/mirex\_qm\_tempotracker &  percival2014/stem &  schreiber2014/default &  schreiber2017/ismir2017 &  schreiber2017/mirex2017 \\
-Estimator                           &                                      &                                   &                    &                        &                          &                          \\
+{} &  boeck2015/tempodetector2016\_default &  davies2009/mirex\_qm\_tempotracker &  percival2014/stem &  schreiber2014/default &  schreiber2017/ismir2017 &  schreiber2017/mirex2017 &  schreiber2018/cnn &  schreiber2018/fcn &  schreiber2018/ismir2018 \\
+Estimator                           &                                      &                                   &                    &                        &                          &                          &                    &                    &                          \\
 \midrule
-boeck2015/tempodetector2016\_default &                                  1.0 &                               1.0 &                1.0 &                    1.0 &                      1.0 &                      1.0 \\
-davies2009/mirex\_qm\_tempotracker    &                                  1.0 &                               1.0 &                1.0 &                    1.0 &                      1.0 &                      1.0 \\
-percival2014/stem                   &                                  1.0 &                               1.0 &                1.0 &                    1.0 &                      1.0 &                      1.0 \\
-schreiber2014/default               &                                  1.0 &                               1.0 &                1.0 &                    1.0 &                      1.0 &                      1.0 \\
-schreiber2017/ismir2017             &                                  1.0 &                               1.0 &                1.0 &                    1.0 &                      1.0 &                      1.0 \\
-schreiber2017/mirex2017             &                                  1.0 &                               1.0 &                1.0 &                    1.0 &                      1.0 &                      1.0 \\
+boeck2015/tempodetector2016\_default &                                  1.0 &                               1.0 &                1.0 &                    1.0 &                      1.0 &                      1.0 &                1.0 &                1.0 &                      1.0 \\
+davies2009/mirex\_qm\_tempotracker    &                                  1.0 &                               1.0 &                1.0 &                    1.0 &                      1.0 &                      1.0 &                1.0 &                1.0 &                      1.0 \\
+percival2014/stem                   &                                  1.0 &                               1.0 &                1.0 &                    1.0 &                      1.0 &                      1.0 &                1.0 &                1.0 &                      1.0 \\
+schreiber2014/default               &                                  1.0 &                               1.0 &                1.0 &                    1.0 &                      1.0 &                      1.0 &                1.0 &                1.0 &                      1.0 \\
+schreiber2017/ismir2017             &                                  1.0 &                               1.0 &                1.0 &                    1.0 &                      1.0 &                      1.0 &                1.0 &                1.0 &                      1.0 \\
+schreiber2017/mirex2017             &                                  1.0 &                               1.0 &                1.0 &                    1.0 &                      1.0 &                      1.0 &                1.0 &                1.0 &                      1.0 \\
+schreiber2018/cnn                   &                                  1.0 &                               1.0 &                1.0 &                    1.0 &                      1.0 &                      1.0 &                1.0 &                1.0 &                      1.0 \\
+schreiber2018/fcn                   &                                  1.0 &                               1.0 &                1.0 &                    1.0 &                      1.0 &                      1.0 &                1.0 &                1.0 &                      1.0 \\
+schreiber2018/ismir2018             &                                  1.0 &                               1.0 &                1.0 &                    1.0 &                      1.0 &                      1.0 &                1.0 &                1.0 &                      1.0 \\
 \bottomrule
 \end{tabular}

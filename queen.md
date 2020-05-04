@@ -97,7 +97,7 @@ Reports for other corpora may be found [here](index.md).
 | Attribute | Value |
 | --- | --- |
 | **Corpus** | queen |
-| **Version** | 0.0.1 |
+| **Version** | 0.0.4 |
 | **Annotation&nbsp;Tools** | schreiber 2017, model=ismir2017, http://www.tagtraum.com/tempo_estimation.html |
 | **Annotator,&nbsp;bibtex** |[Schreiber2017](bib/Schreiber2017.bib) |
 
@@ -106,7 +106,7 @@ Reports for other corpora may be found [here](index.md).
 | Attribute | Value |
 | --- | --- |
 | **Corpus** | queen |
-| **Version** | 0.0.1 |
+| **Version** | 0.0.4 |
 | **Annotation&nbsp;Tools** | schreiber 2017, model=mirex2017, http://www.tagtraum.com/tempo_estimation.html |
 | **Annotator,&nbsp;bibtex** |[Schreiber2017](bib/Schreiber2017.bib) |
 
@@ -136,8 +136,8 @@ Reports for other corpora may be found [here](index.md).
 | [davies2009/mirex_qm_tempotracker](#davies2009mirex_qm_tempotracker) |   51   |   71.78   |   166.71   |   120.76   |   26.00   |   81.00   |   0.94   |
 | [percival2014/stem](#percival2014stem)             |   51   |   63.41   |   142.56   |   99.08   |   21.25   |   67.00   |   0.96   |
 | [schreiber2014/default](#schreiber2014default)     |   51   |   59.73   |   143.87   |   97.74   |   21.00   |   63.00   |   0.92   |
-| [schreiber2017/ismir2017](#schreiber2017ismir2017) |   51   |   40.65   |   152.90   |   99.09   |   26.46   |   66.00   |   0.84   |
-| [schreiber2017/mirex2017](#schreiber2017mirex2017) |   51   |   40.65   |   152.90   |   96.82   |   27.06   |   66.00   |   0.84   |
+| [schreiber2017/ismir2017](#schreiber2017ismir2017) |   51   |   63.09   |   180.19   |   101.61   |   23.67   |   66.00   |   0.94   |
+| [schreiber2017/mirex2017](#schreiber2017mirex2017) |   51   |   44.79   |   180.19   |   100.03   |   25.23   |   66.00   |   0.92   |
 | [schreiber2018/cnn](#schreiber2018cnn)             |   51   |   63.00   |   157.00   |   103.78   |   24.44   |   67.00   |   0.90   |
 | [schreiber2018/fcn](#schreiber2018fcn)             |   51   |   60.00   |   157.00   |   98.20   |   23.64   |   67.00   |   0.92   |
 
@@ -169,12 +169,12 @@ See [[Gouyon2006](bib/Gouyon2006.bib)].
 
 | Estimator| Accuracy1 | Accuracy2 |
 | ---: | :---: | :---: |
-| [schreiber2018/cnn](#schreiber2018cnn)             | __0.9412__ | __0.9608__ |
+| [schreiber2018/cnn](#schreiber2018cnn)             | __0.9412__ |   0.9608   |
 | [schreiber2018/fcn](#schreiber2018fcn)             |   0.8824   |   0.9216   |
+| [schreiber2017/mirex2017](#schreiber2017mirex2017) |   0.8824   | __0.9804__ |
+| [schreiber2017/ismir2017](#schreiber2017ismir2017) |   0.8824   |   0.9608   |
 | [percival2014/stem](#percival2014stem)             |   0.8431   |   0.9412   |
-| [schreiber2017/mirex2017](#schreiber2017mirex2017) |   0.8235   | __0.9608__ |
-| [schreiber2017/ismir2017](#schreiber2017ismir2017) |   0.8235   | __0.9608__ |
-| [boeck2015/tempodetector2016_default](#boeck2015tempodetector2016_default) |   0.8235   | __0.9608__ |
+| [boeck2015/tempodetector2016_default](#boeck2015tempodetector2016_default) |   0.8235   |   0.9608   |
 | [schreiber2014/default](#schreiber2014default)     |   0.8235   |   0.9020   |
 | [davies2009/mirex_qm_tempotracker](#davies2009mirex_qm_tempotracker) |   0.7647   |   0.9216   |
 
@@ -230,12 +230,12 @@ Items with different tempo annotations (Accuracy<sub>1</sub>, 4% tolerance) in d
 'Greatest Hits I/01 Bohemian Rhapsody' 'Greatest Hits I/07 Don't Stop Me Now' 'Greatest Hits I/09 Crazy Little Thing Called Love' 'Greatest Hits II/06 Innuendo' 'Greatest Hits II/08 Breakthru' 'Greatest Hits III/01 The Show Must Go On' 'Greatest Hits III/03 Barcelona' 'Greatest Hits III/09 Driven By You' 'Greatest Hits III/15 No-One But You' 
 [CSV](data/queen_estimates_schreiber2018_ismir2018_schreiber2014_default_diff_items_tol04_accuracy1.csv "Download list as CSV")
 
-*[schreiber2018/ismir2018](#schreiber2018ismir2018) compared with [schreiber2017/ismir2017](#schreiber2017ismir2017) (9 differences):*
-'Greatest Hits I/07 Don't Stop Me Now' 'Greatest Hits I/08 Save Me' 'Greatest Hits I/16 We Will Rock You' 'Greatest Hits I/17 We Are The Champions' 'Greatest Hits II/06 Innuendo' 'Greatest Hits II/07 It's A Hard Life' 'Greatest Hits II/09 Who Wants To Live Forever' 'Greatest Hits II/14 Hammer To Fall' 'Greatest Hits III/17 Thank God It's Christmas' 
+*[schreiber2018/ismir2018](#schreiber2018ismir2018) compared with [schreiber2017/ismir2017](#schreiber2017ismir2017) (6 differences):*
+'Greatest Hits I/07 Don't Stop Me Now' 'Greatest Hits I/09 Crazy Little Thing Called Love' 'Greatest Hits I/17 We Are The Champions' 'Greatest Hits II/06 Innuendo' 'Greatest Hits II/08 Breakthru' 'Greatest Hits III/17 Thank God It's Christmas' 
 [CSV](data/queen_estimates_schreiber2018_ismir2018_schreiber2017_ismir2017_diff_items_tol04_accuracy1.csv "Download list as CSV")
 
-*[schreiber2018/ismir2018](#schreiber2018ismir2018) compared with [schreiber2017/mirex2017](#schreiber2017mirex2017) (9 differences):*
-'Greatest Hits I/07 Don't Stop Me Now' 'Greatest Hits I/08 Save Me' 'Greatest Hits I/16 We Will Rock You' 'Greatest Hits I/17 We Are The Champions' 'Greatest Hits II/06 Innuendo' 'Greatest Hits II/07 It's A Hard Life' 'Greatest Hits II/14 Hammer To Fall' 'Greatest Hits III/03 Barcelona' 'Greatest Hits III/17 Thank God It's Christmas' 
+*[schreiber2018/ismir2018](#schreiber2018ismir2018) compared with [schreiber2017/mirex2017](#schreiber2017mirex2017) (6 differences):*
+'Greatest Hits I/07 Don't Stop Me Now' 'Greatest Hits I/09 Crazy Little Thing Called Love' 'Greatest Hits I/17 We Are The Champions' 'Greatest Hits II/06 Innuendo' 'Greatest Hits II/08 Breakthru' 'Greatest Hits III/03 Barcelona' 
 [CSV](data/queen_estimates_schreiber2018_ismir2018_schreiber2017_mirex2017_diff_items_tol04_accuracy1.csv "Download list as CSV")
 
 *[schreiber2018/ismir2018](#schreiber2018ismir2018) compared with [schreiber2018/cnn](#schreiber2018cnn) (3 differences):*
@@ -271,8 +271,8 @@ Items with different tempo annotations (Accuracy<sub>2</sub>, 4% tolerance) in d
 'Greatest Hits I/17 We Are The Champions' 'Greatest Hits III/17 Thank God It's Christmas' 
 [CSV](data/queen_estimates_schreiber2018_ismir2018_schreiber2017_ismir2017_diff_items_tol04_accuracy2.csv "Download list as CSV")
 
-*[schreiber2018/ismir2018](#schreiber2018ismir2018) compared with [schreiber2017/mirex2017](#schreiber2017mirex2017) (2 differences):*
-'Greatest Hits I/17 We Are The Champions' 'Greatest Hits III/17 Thank God It's Christmas' 
+*[schreiber2018/ismir2018](#schreiber2018ismir2018) compared with [schreiber2017/mirex2017](#schreiber2017mirex2017) (1 differences):*
+'Greatest Hits I/17 We Are The Champions' 
 [CSV](data/queen_estimates_schreiber2018_ismir2018_schreiber2017_mirex2017_diff_items_tol04_accuracy2.csv "Download list as CSV")
 
 *[schreiber2018/ismir2018](#schreiber2018ismir2018) compared with [schreiber2018/cnn](#schreiber2018cnn) (2 differences):*
@@ -288,14 +288,14 @@ __All tracks were estimated 'correctly' by at least one system.__
 
 | Estimator| boeck2015/tempodetector2016_default | davies2009/mirex_qm_tempotracker | percival2014/stem | schreiber2014/default | schreiber2017/ismir2017 | schreiber2017/mirex2017 | schreiber2018/cnn | schreiber2018/fcn |
 | ---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [boeck2015/tempodetector2016_default](#boeck2015tempodetector2016_default) |   1.0000   |   0.6476   |   1.0000   |   1.0000   |   1.0000   |   1.0000   |   0.1094   |   0.5811   |
-| [davies2009/mirex_qm_tempotracker](#davies2009mirex_qm_tempotracker) |   0.6476   |   1.0000   |   0.4807   |   0.6072   |   0.6476   |   0.6476   | __0.0225__ |   0.2379   |
-| [percival2014/stem](#percival2014stem)             |   1.0000   |   0.4807   |   1.0000   |   1.0000   |   1.0000   |   1.0000   |   0.1250   |   0.6875   |
-| [schreiber2014/default](#schreiber2014default)     |   1.0000   |   0.6072   |   1.0000   |   1.0000   |   1.0000   |   1.0000   |   0.1094   |   0.5078   |
-| [schreiber2017/ismir2017](#schreiber2017ismir2017) |   1.0000   |   0.6476   |   1.0000   |   1.0000   |   1.0000   |   1.0000   |   0.0703   |   0.5488   |
-| [schreiber2017/mirex2017](#schreiber2017mirex2017) |   1.0000   |   0.6476   |   1.0000   |   1.0000   |   1.0000   |   1.0000   |   0.0703   |   0.5488   |
-| [schreiber2018/cnn](#schreiber2018cnn)             |   0.1094   | __0.0225__ |   0.1250   |   0.1094   |   0.0703   |   0.0703   |   1.0000   |   0.3750   |
-| [schreiber2018/fcn](#schreiber2018fcn)             |   0.5811   |   0.2379   |   0.6875   |   0.5078   |   0.5488   |   0.5488   |   0.3750   |   1.0000   |
+| [boeck2015/tempodetector2016_default](#boeck2015tempodetector2016_default) |   1.0000   |   0.6476   |   1.0000   |   1.0000   |   0.5488   |   0.5488   |   0.1094   |   0.5811   |
+| [davies2009/mirex_qm_tempotracker](#davies2009mirex_qm_tempotracker) |   0.6476   |   1.0000   |   0.4807   |   0.6072   |   0.2379   |   0.2101   | __0.0225__ |   0.2379   |
+| [percival2014/stem](#percival2014stem)             |   1.0000   |   0.4807   |   1.0000   |   1.0000   |   0.6250   |   0.6875   |   0.1250   |   0.6875   |
+| [schreiber2014/default](#schreiber2014default)     |   1.0000   |   0.6072   |   1.0000   |   1.0000   |   0.4531   |   0.3750   |   0.1094   |   0.5078   |
+| [schreiber2017/ismir2017](#schreiber2017ismir2017) |   0.5488   |   0.2379   |   0.6250   |   0.4531   |   1.0000   |   1.0000   |   0.3750   |   1.0000   |
+| [schreiber2017/mirex2017](#schreiber2017mirex2017) |   0.5488   |   0.2101   |   0.6875   |   0.3750   |   1.0000   |   1.0000   |   0.3750   |   1.0000   |
+| [schreiber2018/cnn](#schreiber2018cnn)             |   0.1094   | __0.0225__ |   0.1250   |   0.1094   |   0.3750   |   0.3750   |   1.0000   |   0.3750   |
+| [schreiber2018/fcn](#schreiber2018fcn)             |   0.5811   |   0.2379   |   0.6875   |   0.5078   |   1.0000   |   1.0000   |   0.3750   |   1.0000   |
 
 <a name="table4"></a>Table 4: McNemar p-values, using reference annotations [schreiber2018/ismir2018](#schreiber2018ismir2018) as groundtruth with Accuracy<sub>1</sub> [[Gouyon2006](bib/Gouyon2006.bib)]. H<sub>0</sub>: both estimators disagree with the groundtruth to the same amount. If p<=ɑ, reject H<sub>0</sub>, i.e. we have a significant difference in the disagreement with the groundtruth. In the table, p-values<0.05 are set in bold.
 
@@ -304,13 +304,13 @@ __All tracks were estimated 'correctly' by at least one system.__
 | Estimator| boeck2015/tempodetector2016_default | davies2009/mirex_qm_tempotracker | percival2014/stem | schreiber2014/default | schreiber2017/ismir2017 | schreiber2017/mirex2017 | schreiber2018/cnn | schreiber2018/fcn |
 | ---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | [boeck2015/tempodetector2016_default](#boeck2015tempodetector2016_default) |   1.0000   |   0.6250   |   1.0000   |   0.3750   |   1.0000   |   1.0000   |   1.0000   |   0.6875   |
-| [davies2009/mirex_qm_tempotracker](#davies2009mirex_qm_tempotracker) |   0.6250   |   1.0000   |   1.0000   |   1.0000   |   0.6875   |   0.6875   |   0.6875   |   1.0000   |
-| [percival2014/stem](#percival2014stem)             |   1.0000   |   1.0000   |   1.0000   |   0.7266   |   1.0000   |   1.0000   |   1.0000   |   1.0000   |
-| [schreiber2014/default](#schreiber2014default)     |   0.3750   |   1.0000   |   0.7266   |   1.0000   |   0.4531   |   0.4531   |   0.4531   |   1.0000   |
+| [davies2009/mirex_qm_tempotracker](#davies2009mirex_qm_tempotracker) |   0.6250   |   1.0000   |   1.0000   |   1.0000   |   0.6875   |   0.3750   |   0.6875   |   1.0000   |
+| [percival2014/stem](#percival2014stem)             |   1.0000   |   1.0000   |   1.0000   |   0.7266   |   1.0000   |   0.5000   |   1.0000   |   1.0000   |
+| [schreiber2014/default](#schreiber2014default)     |   0.3750   |   1.0000   |   0.7266   |   1.0000   |   0.4531   |   0.2188   |   0.4531   |   1.0000   |
 | [schreiber2017/ismir2017](#schreiber2017ismir2017) |   1.0000   |   0.6875   |   1.0000   |   0.4531   |   1.0000   |   1.0000   |   1.0000   |   0.6250   |
-| [schreiber2017/mirex2017](#schreiber2017mirex2017) |   1.0000   |   0.6875   |   1.0000   |   0.4531   |   1.0000   |   1.0000   |   1.0000   |   0.6250   |
+| [schreiber2017/mirex2017](#schreiber2017mirex2017) |   1.0000   |   0.3750   |   0.5000   |   0.2188   |   1.0000   |   1.0000   |   1.0000   |   0.2500   |
 | [schreiber2018/cnn](#schreiber2018cnn)             |   1.0000   |   0.6875   |   1.0000   |   0.4531   |   1.0000   |   1.0000   |   1.0000   |   0.5000   |
-| [schreiber2018/fcn](#schreiber2018fcn)             |   0.6875   |   1.0000   |   1.0000   |   1.0000   |   0.6250   |   0.6250   |   0.5000   |   1.0000   |
+| [schreiber2018/fcn](#schreiber2018fcn)             |   0.6875   |   1.0000   |   1.0000   |   1.0000   |   0.6250   |   0.2500   |   0.5000   |   1.0000   |
 
 <a name="table5"></a>Table 5: McNemar p-values, using reference annotations [schreiber2018/ismir2018](#schreiber2018ismir2018) as groundtruth with Accuracy<sub>2</sub> [[Gouyon2006](bib/Gouyon2006.bib)]. H<sub>0</sub>: both estimators disagree with the groundtruth to the same amount. If p<=ɑ, reject H<sub>0</sub>, i.e. we have a significant difference in the disagreement with the groundtruth. In the table, p-values<0.05 are set in bold.
 
@@ -394,11 +394,11 @@ See [[McKinney2007](bib/McKinney2007.bib)].
 | ---: | :---: | :---: | :---: |
 | [schreiber2018/fcn](#schreiber2018fcn)             | __0.9628__ | __1.0000__ | __0.7843__ |
 | [schreiber2018/cnn](#schreiber2018cnn)             |   0.9586   | __1.0000__ |   0.7647   |
+| [schreiber2017/mirex2017](#schreiber2017mirex2017) |   0.9461   |   0.9804   |   0.7255   |
+| [schreiber2017/ismir2017](#schreiber2017ismir2017) |   0.9261   |   0.9804   |   0.6471   |
 | [schreiber2014/default](#schreiber2014default)     |   0.9148   |   0.9608   |   0.7059   |
-| [schreiber2017/ismir2017](#schreiber2017ismir2017) |   0.9082   |   0.9608   |   0.6471   |
 | [davies2009/mirex_qm_tempotracker](#davies2009mirex_qm_tempotracker) |   0.8995   |   0.9608   |   0.6078   |
 | [boeck2015/tempodetector2016_default](#boeck2015tempodetector2016_default) |   0.8964   |   0.9804   |   0.4902   |
-| [schreiber2017/mirex2017](#schreiber2017mirex2017) |   0.8326   |   0.9216   |   0.4902   |
 | [percival2014/stem](#percival2014stem)             |   0.7848   |   0.9412   |   0.0000   |
 
 <a name="table6"></a>Table 6: Compared to [schreiber2018/ismir2018](#schreiber2018ismir2018) with 8.0% tolerance.
@@ -544,9 +544,9 @@ OE<sub>2</sub> is the signed OE<sub>1</sub> corresponding to the minimum absolut
 | [schreiber2018/cnn](#schreiber2018cnn)             | __-0.0082__ | __0.2078__ |   0.0114   | __0.0595__ |
 | [schreiber2018/fcn](#schreiber2018fcn)             |   -0.0892   |   0.2617   |   0.0284   |   0.0975   |
 | [schreiber2014/default](#schreiber2014default)     |   -0.0886   |   0.2842   |   0.0094   |   0.0722   |
+| [schreiber2017/ismir2017](#schreiber2017ismir2017) |   -0.0367   |   0.2975   |   0.0026   |   0.0843   |
+| [schreiber2017/mirex2017](#schreiber2017mirex2017) |   -0.0677   |   0.3108   |   0.0107   |   0.0598   |
 | [percival2014/stem](#percival2014stem)             |   -0.0687   |   0.3340   |   0.0097   |   0.1030   |
-| [schreiber2017/mirex2017](#schreiber2017mirex2017) |   -0.1347   |   0.3607   |   0.0026   |   0.0843   |
-| [schreiber2017/ismir2017](#schreiber2017ismir2017) |   -0.0955   |   0.3749   |   0.0026   |   0.0843   |
 | [davies2009/mirex_qm_tempotracker](#davies2009mirex_qm_tempotracker) |   0.2155   |   0.3779   |   0.0195   |   0.0805   |
 | [boeck2015/tempodetector2016_default](#boeck2015tempodetector2016_default) |   -0.1466   |   0.3969   | __0.0021__ |   0.0830   |
 
@@ -582,14 +582,14 @@ Raw data OE<sub>2</sub>: [CSV](data/queen_estimates_schreiber2018_ismir2018_raw_
 
 | Estimator| boeck2015/tempodetector2016_default | davies2009/mirex_qm_tempotracker | percival2014/stem | schreiber2014/default | schreiber2017/ismir2017 | schreiber2017/mirex2017 | schreiber2018/cnn | schreiber2018/fcn |
 | ---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [boeck2015/tempodetector2016_default](#boeck2015tempodetector2016_default) |   1.0000   | __0.0000__ |   0.2152   |   0.3461   |   0.5053   |   0.8769   | __0.0211__ |   0.3881   |
-| [davies2009/mirex_qm_tempotracker](#davies2009mirex_qm_tempotracker) | __0.0000__ |   1.0000   | __0.0000__ | __0.0000__ | __0.0000__ | __0.0000__ | __0.0001__ | __0.0000__ |
-| [percival2014/stem](#percival2014stem)             |   0.2152   | __0.0000__ |   1.0000   |   0.6620   |   0.5938   |   0.2478   |   0.1995   |   0.6343   |
-| [schreiber2014/default](#schreiber2014default)     |   0.3461   | __0.0000__ |   0.6620   |   1.0000   |   0.9076   |   0.4491   |   0.0637   |   0.9847   |
-| [schreiber2017/ismir2017](#schreiber2017ismir2017) |   0.5053   | __0.0000__ |   0.5938   |   0.9076   |   1.0000   |   0.1593   |   0.1036   |   0.9170   |
-| [schreiber2017/mirex2017](#schreiber2017mirex2017) |   0.8769   | __0.0000__ |   0.2478   |   0.4491   |   0.1593   |   1.0000   | __0.0161__ |   0.4450   |
-| [schreiber2018/cnn](#schreiber2018cnn)             | __0.0211__ | __0.0001__ |   0.1995   |   0.0637   |   0.1036   | __0.0161__ |   1.0000   | __0.0301__ |
-| [schreiber2018/fcn](#schreiber2018fcn)             |   0.3881   | __0.0000__ |   0.6343   |   0.9847   |   0.9170   |   0.4450   | __0.0301__ |   1.0000   |
+| [boeck2015/tempodetector2016_default](#boeck2015tempodetector2016_default) |   1.0000   | __0.0000__ |   0.2152   |   0.3461   |   0.1227   |   0.2823   | __0.0211__ |   0.3881   |
+| [davies2009/mirex_qm_tempotracker](#davies2009mirex_qm_tempotracker) | __0.0000__ |   1.0000   | __0.0000__ | __0.0000__ | __0.0004__ | __0.0001__ | __0.0001__ | __0.0000__ |
+| [percival2014/stem](#percival2014stem)             |   0.2152   | __0.0000__ |   1.0000   |   0.6620   |   0.3778   |   0.9820   |   0.1995   |   0.6343   |
+| [schreiber2014/default](#schreiber2014default)     |   0.3461   | __0.0000__ |   0.6620   |   1.0000   |   0.1912   |   0.6485   |   0.0637   |   0.9847   |
+| [schreiber2017/ismir2017](#schreiber2017ismir2017) |   0.1227   | __0.0004__ |   0.3778   |   0.1912   |   1.0000   |   0.1737   |   0.4930   |   0.1854   |
+| [schreiber2017/mirex2017](#schreiber2017mirex2017) |   0.2823   | __0.0001__ |   0.9820   |   0.6485   |   0.1737   |   1.0000   |   0.1747   |   0.6150   |
+| [schreiber2018/cnn](#schreiber2018cnn)             | __0.0211__ | __0.0001__ |   0.1995   |   0.0637   |   0.4930   |   0.1747   |   1.0000   | __0.0301__ |
+| [schreiber2018/fcn](#schreiber2018fcn)             |   0.3881   | __0.0000__ |   0.6343   |   0.9847   |   0.1854   |   0.6150   | __0.0301__ |   1.0000   |
 
 <a name="table8"></a>Table 8: Paired t-test p-values, using reference annotations [schreiber2018/ismir2018](#schreiber2018ismir2018) as groundtruth with OE<sub>1</sub>. H<sub>0</sub>: the true mean difference between paired samples is zero. If p<=ɑ, reject H<sub>0</sub>, i.e. we have a significant difference between estimates from the two algorithms. In the table, p-values<0.05 are set in bold.
 
@@ -597,14 +597,14 @@ Raw data OE<sub>2</sub>: [CSV](data/queen_estimates_schreiber2018_ismir2018_raw_
 
 | Estimator| boeck2015/tempodetector2016_default | davies2009/mirex_qm_tempotracker | percival2014/stem | schreiber2014/default | schreiber2017/ismir2017 | schreiber2017/mirex2017 | schreiber2018/cnn | schreiber2018/fcn |
 | ---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [boeck2015/tempodetector2016_default](#boeck2015tempodetector2016_default) |   1.0000   |   0.3109   |   0.6835   |   0.6556   |   0.9801   |   0.9801   |   0.5150   |   0.1524   |
-| [davies2009/mirex_qm_tempotracker](#davies2009mirex_qm_tempotracker) |   0.3109   |   1.0000   |   0.5906   |   0.5900   |   0.3123   |   0.3123   |   0.5614   |   0.6077   |
-| [percival2014/stem](#percival2014stem)             |   0.6835   |   0.5906   |   1.0000   |   0.9862   |   0.3951   |   0.3951   |   0.8874   |   0.1059   |
-| [schreiber2014/default](#schreiber2014default)     |   0.6556   |   0.5900   |   0.9862   |   1.0000   |   0.6567   |   0.6567   |   0.8811   |   0.2836   |
-| [schreiber2017/ismir2017](#schreiber2017ismir2017) |   0.9801   |   0.3123   |   0.3951   |   0.6567   |   1.0000   |   1.0000   |   0.2938   |   0.0655   |
-| [schreiber2017/mirex2017](#schreiber2017mirex2017) |   0.9801   |   0.3123   |   0.3951   |   0.6567   |   1.0000   |   1.0000   |   0.2938   |   0.0655   |
-| [schreiber2018/cnn](#schreiber2018cnn)             |   0.5150   |   0.5614   |   0.8874   |   0.8811   |   0.2938   |   0.2938   |   1.0000   |   0.1405   |
-| [schreiber2018/fcn](#schreiber2018fcn)             |   0.1524   |   0.6077   |   0.1059   |   0.2836   |   0.0655   |   0.0655   |   0.1405   |   1.0000   |
+| [boeck2015/tempodetector2016_default](#boeck2015tempodetector2016_default) |   1.0000   |   0.3109   |   0.6835   |   0.6556   |   0.9801   |   0.5500   |   0.5150   |   0.1524   |
+| [davies2009/mirex_qm_tempotracker](#davies2009mirex_qm_tempotracker) |   0.3109   |   1.0000   |   0.5906   |   0.5900   |   0.3123   |   0.5431   |   0.5614   |   0.6077   |
+| [percival2014/stem](#percival2014stem)             |   0.6835   |   0.5906   |   1.0000   |   0.9862   |   0.3951   |   0.9350   |   0.8874   |   0.1059   |
+| [schreiber2014/default](#schreiber2014default)     |   0.6556   |   0.5900   |   0.9862   |   1.0000   |   0.6567   |   0.9219   |   0.8811   |   0.2836   |
+| [schreiber2017/ismir2017](#schreiber2017ismir2017) |   0.9801   |   0.3123   |   0.3951   |   0.6567   |   1.0000   |   0.3221   |   0.2938   |   0.0655   |
+| [schreiber2017/mirex2017](#schreiber2017mirex2017) |   0.5500   |   0.5431   |   0.9350   |   0.9219   |   0.3221   |   1.0000   |   0.6729   |   0.1224   |
+| [schreiber2018/cnn](#schreiber2018cnn)             |   0.5150   |   0.5614   |   0.8874   |   0.8811   |   0.2938   |   0.6729   |   1.0000   |   0.1405   |
+| [schreiber2018/fcn](#schreiber2018fcn)             |   0.1524   |   0.6077   |   0.1059   |   0.2836   |   0.0655   |   0.1224   |   0.1405   |   1.0000   |
 
 <a name="table9"></a>Table 9: Paired t-test p-values, using reference annotations [schreiber2018/ismir2018](#schreiber2018ismir2018) as groundtruth with OE<sub>2</sub>. H<sub>0</sub>: the true mean difference between paired samples is zero. If p<=ɑ, reject H<sub>0</sub>, i.e. we have a significant difference between estimates from the two algorithms. In the table, p-values<0.05 are set in bold.
 
@@ -680,12 +680,12 @@ AOE<sub>2</sub> is the minimum of AOE<sub>1</sub> allowing the octave errors 2, 
 
 | Estimator| AOE1_MEAN | AOE1_STDEV | AOE2_MEAN | AOE2_STDEV |
 | ---: | :---: | :---: | :---: | :---: |
-| [schreiber2018/cnn](#schreiber2018cnn)             | __0.0522__ | __0.2013__ | __0.0130__ | __0.0592__ |
+| [schreiber2018/cnn](#schreiber2018cnn)             | __0.0522__ | __0.2013__ | __0.0130__ |   0.0592   |
 | [schreiber2018/fcn](#schreiber2018fcn)             |   0.0972   |   0.2588   |   0.0311   |   0.0967   |
+| [schreiber2017/ismir2017](#schreiber2017ismir2017) |   0.1060   |   0.2804   |   0.0234   |   0.0810   |
 | [schreiber2014/default](#schreiber2014default)     |   0.1108   |   0.2763   |   0.0278   |   0.0673   |
+| [schreiber2017/mirex2017](#schreiber2017mirex2017) |   0.1126   |   0.2975   |   0.0153   | __0.0588__ |
 | [percival2014/stem](#percival2014stem)             |   0.1363   |   0.3126   |   0.0310   |   0.0987   |
-| [schreiber2017/mirex2017](#schreiber2017mirex2017) |   0.1626   |   0.3490   |   0.0234   |   0.0810   |
-| [schreiber2017/ismir2017](#schreiber2017ismir2017) |   0.1640   |   0.3504   |   0.0234   |   0.0810   |
 | [boeck2015/tempodetector2016_default](#boeck2015tempodetector2016_default) |   0.1777   |   0.3840   |   0.0240   |   0.0795   |
 | [davies2009/mirex_qm_tempotracker](#davies2009mirex_qm_tempotracker) |   0.2155   |   0.3779   |   0.0406   |   0.0722   |
 
@@ -721,14 +721,14 @@ Raw data AOE<sub>2</sub>: [CSV](data/queen_estimates_schreiber2018_ismir2018_raw
 
 | Estimator| boeck2015/tempodetector2016_default | davies2009/mirex_qm_tempotracker | percival2014/stem | schreiber2014/default | schreiber2017/ismir2017 | schreiber2017/mirex2017 | schreiber2018/cnn | schreiber2018/fcn |
 | ---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [boeck2015/tempodetector2016_default](#boeck2015tempodetector2016_default) |   1.0000   |   0.6560   |   0.5079   |   0.2735   |   0.8573   |   0.8424   | __0.0369__ |   0.2222   |
-| [davies2009/mirex_qm_tempotracker](#davies2009mirex_qm_tempotracker) |   0.6560   |   1.0000   |   0.2673   |   0.1418   |   0.4987   |   0.4997   | __0.0059__ |   0.0967   |
-| [percival2014/stem](#percival2014stem)             |   0.5079   |   0.2673   |   1.0000   |   0.5731   |   0.5801   |   0.6454   |   0.0712   |   0.3608   |
-| [schreiber2014/default](#schreiber2014default)     |   0.2735   |   0.1418   |   0.5731   |   1.0000   |   0.3639   |   0.3574   |   0.1776   |   0.6669   |
-| [schreiber2017/ismir2017](#schreiber2017ismir2017) |   0.8573   |   0.4987   |   0.5801   |   0.3639   |   1.0000   |   0.9580   | __0.0342__ |   0.2588   |
-| [schreiber2017/mirex2017](#schreiber2017mirex2017) |   0.8424   |   0.4997   |   0.6454   |   0.3574   |   0.9580   |   1.0000   | __0.0356__ |   0.2672   |
-| [schreiber2018/cnn](#schreiber2018cnn)             | __0.0369__ | __0.0059__ |   0.0712   |   0.1776   | __0.0342__ | __0.0356__ |   1.0000   |   0.2365   |
-| [schreiber2018/fcn](#schreiber2018fcn)             |   0.2222   |   0.0967   |   0.3608   |   0.6669   |   0.2588   |   0.2672   |   0.2365   |   1.0000   |
+| [boeck2015/tempodetector2016_default](#boeck2015tempodetector2016_default) |   1.0000   |   0.6560   |   0.5079   |   0.2735   |   0.2657   |   0.3250   | __0.0369__ |   0.2222   |
+| [davies2009/mirex_qm_tempotracker](#davies2009mirex_qm_tempotracker) |   0.6560   |   1.0000   |   0.2673   |   0.1418   |   0.1332   |   0.1518   | __0.0059__ |   0.0967   |
+| [percival2014/stem](#percival2014stem)             |   0.5079   |   0.2673   |   1.0000   |   0.5731   |   0.4019   |   0.5760   |   0.0712   |   0.3608   |
+| [schreiber2014/default](#schreiber2014default)     |   0.2735   |   0.1418   |   0.5731   |   1.0000   |   0.9014   |   0.9621   |   0.1776   |   0.6669   |
+| [schreiber2017/ismir2017](#schreiber2017ismir2017) |   0.2657   |   0.1332   |   0.4019   |   0.9014   |   1.0000   |   0.7598   |   0.1903   |   0.8240   |
+| [schreiber2017/mirex2017](#schreiber2017mirex2017) |   0.3250   |   0.1518   |   0.5760   |   0.9621   |   0.7598   |   1.0000   |   0.1668   |   0.7166   |
+| [schreiber2018/cnn](#schreiber2018cnn)             | __0.0369__ | __0.0059__ |   0.0712   |   0.1776   |   0.1903   |   0.1668   |   1.0000   |   0.2365   |
+| [schreiber2018/fcn](#schreiber2018fcn)             |   0.2222   |   0.0967   |   0.3608   |   0.6669   |   0.8240   |   0.7166   |   0.2365   |   1.0000   |
 
 <a name="table11"></a>Table 11: Paired t-test p-values, using reference annotations [schreiber2018/ismir2018](#schreiber2018ismir2018) as groundtruth with AOE<sub>1</sub>. H<sub>0</sub>: the true mean difference between paired samples is zero. If p<=ɑ, reject H<sub>0</sub>, i.e. we have a significant difference between estimates from the two algorithms. In the table, p-values<0.05 are set in bold.
 
@@ -736,14 +736,14 @@ Raw data AOE<sub>2</sub>: [CSV](data/queen_estimates_schreiber2018_ismir2018_raw
 
 | Estimator| boeck2015/tempodetector2016_default | davies2009/mirex_qm_tempotracker | percival2014/stem | schreiber2014/default | schreiber2017/ismir2017 | schreiber2017/mirex2017 | schreiber2018/cnn | schreiber2018/fcn |
 | ---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [boeck2015/tempodetector2016_default](#boeck2015tempodetector2016_default) |   1.0000   |   0.2795   |   0.7052   |   0.7866   |   0.9701   |   0.9701   |   0.4390   |   0.6973   |
-| [davies2009/mirex_qm_tempotracker](#davies2009mirex_qm_tempotracker) |   0.2795   |   1.0000   |   0.5815   |   0.1943   |   0.2619   |   0.2619   | __0.0409__ |   0.5820   |
-| [percival2014/stem](#percival2014stem)             |   0.7052   |   0.5815   |   1.0000   |   0.8555   |   0.3654   |   0.3654   |   0.1275   |   0.9947   |
-| [schreiber2014/default](#schreiber2014default)     |   0.7866   |   0.1943   |   0.8555   |   1.0000   |   0.7706   |   0.7706   |   0.2580   |   0.8501   |
-| [schreiber2017/ismir2017](#schreiber2017ismir2017) |   0.9701   |   0.2619   |   0.3654   |   0.7706   |   1.0000   |   1.0000   |   0.2167   |   0.5901   |
-| [schreiber2017/mirex2017](#schreiber2017mirex2017) |   0.9701   |   0.2619   |   0.3654   |   0.7706   |   1.0000   |   1.0000   |   0.2167   |   0.5901   |
-| [schreiber2018/cnn](#schreiber2018cnn)             |   0.4390   | __0.0409__ |   0.1275   |   0.2580   |   0.2167   |   0.2167   |   1.0000   |   0.1162   |
-| [schreiber2018/fcn](#schreiber2018fcn)             |   0.6973   |   0.5820   |   0.9947   |   0.8501   |   0.5901   |   0.5901   |   0.1162   |   1.0000   |
+| [boeck2015/tempodetector2016_default](#boeck2015tempodetector2016_default) |   1.0000   |   0.2795   |   0.7052   |   0.7866   |   0.9701   |   0.5359   |   0.4390   |   0.6973   |
+| [davies2009/mirex_qm_tempotracker](#davies2009mirex_qm_tempotracker) |   0.2795   |   1.0000   |   0.5815   |   0.1943   |   0.2619   |   0.0505   | __0.0409__ |   0.5820   |
+| [percival2014/stem](#percival2014stem)             |   0.7052   |   0.5815   |   1.0000   |   0.8555   |   0.3654   |   0.1794   |   0.1275   |   0.9947   |
+| [schreiber2014/default](#schreiber2014default)     |   0.7866   |   0.1943   |   0.8555   |   1.0000   |   0.7706   |   0.3209   |   0.2580   |   0.8501   |
+| [schreiber2017/ismir2017](#schreiber2017ismir2017) |   0.9701   |   0.2619   |   0.3654   |   0.7706   |   1.0000   |   0.3221   |   0.2167   |   0.5901   |
+| [schreiber2017/mirex2017](#schreiber2017mirex2017) |   0.5359   |   0.0505   |   0.1794   |   0.3209   |   0.3221   |   1.0000   |   0.1712   |   0.1683   |
+| [schreiber2018/cnn](#schreiber2018cnn)             |   0.4390   | __0.0409__ |   0.1275   |   0.2580   |   0.2167   |   0.1712   |   1.0000   |   0.1162   |
+| [schreiber2018/fcn](#schreiber2018fcn)             |   0.6973   |   0.5820   |   0.9947   |   0.8501   |   0.5901   |   0.1683   |   0.1162   |   1.0000   |
 
 <a name="table12"></a>Table 12: Paired t-test p-values, using reference annotations [schreiber2018/ismir2018](#schreiber2018ismir2018) as groundtruth with AOE<sub>2</sub>. H<sub>0</sub>: the true mean difference between paired samples is zero. If p<=ɑ, reject H<sub>0</sub>, i.e. we have a significant difference between estimates from the two algorithms. In the table, p-values<0.05 are set in bold.
 
@@ -810,4 +810,4 @@ Predictions of GAMs trained on AOE<sub>2</sub> for estimates for reference [schr
 [CSV](data/queen_estimates_schreiber2018_ismir2018_tempo_gam_aoe2.csv "Download data as CSV") [JSON](data/queen_estimates_schreiber2018_ismir2018_tempo_gam_aoe2.json "Download data as JSON") [LATEX](data/queen_estimates_schreiber2018_ismir2018_tempo_gam_aoe2.latex "Download data as LATEX") [PICKLE](data/queen_estimates_schreiber2018_ismir2018_tempo_gam_aoe2.pickle "Download data as PICKLE") [SVG](figures/queen_estimates_schreiber2018_ismir2018_tempo_gam_aoe2.svg "Open Figure") [PDF](figures/queen_estimates_schreiber2018_ismir2018_tempo_gam_aoe2.pdf "Open Figure") [PNG](figures/queen_estimates_schreiber2018_ismir2018_tempo_gam_aoe2.png "Open Figure") 
 
 -------------------------
-Generated by [tempo_eval](https://tempoeval.github.io/tempo_eval/) 0.1.0 on 2019-10-13 17:24. Size L.
+Generated by [tempo_eval](https://tempoeval.github.io/tempo_eval/) 0.1.0 on 2020-05-04 17:56. Size L.

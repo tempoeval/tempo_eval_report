@@ -3,10 +3,10 @@
 {} &  Accuracy1 &  Accuracy2 \\
 Estimator                           &            &            \\
 \midrule
-schreiber2017/mirex2017             &   0.982276 &   0.998338 \\
-schreiber2017/ismir2017             &   0.975353 &   0.998338 \\
 schreiber2018/ismir2018             &   0.957353 &   0.991415 \\
 schreiber2018/cnn                   &   0.955414 &   0.990030 \\
+schreiber2017/mirex2017             &   0.949045 &   0.998338 \\
+schreiber2017/ismir2017             &   0.943783 &   0.998061 \\
 schreiber2018/fcn                   &   0.930767 &   0.988923 \\
 boeck2015/tempodetector2016\_default &   0.924121 &   0.992523 \\
 davies2009/mirex\_qm\_tempotracker    &   0.889227 &   0.969261 \\

@@ -5,9 +5,11 @@ Estimator                           &            &            \\
 \midrule
 schreiber2018/fcn                   &   0.898638 &   0.980333 \\
 schreiber2018/cnn                   &   0.863843 &   0.975794 \\
+schreiber2017/mirex2017             &   0.826021 &   0.960666 \\
 schreiber2018/ismir2018             &   0.824508 &   0.975794 \\
-schreiber2017/mirex2017             &   0.704992 &   0.956127 \\
-schreiber2017/ismir2017             &   0.704992 &   0.956127 \\
+boeck2019/multi\_task\_hjdb           &   0.767020 &   0.962179 \\
+boeck2019/multi\_task                &   0.700454 &   0.962179 \\
+schreiber2017/ismir2017             &   0.689864 &   0.956127 \\
 boeck2015/tempodetector2016\_default &   0.638427 &   0.940998 \\
 schreiber2014/default               &   0.605144 &   0.931921 \\
 percival2014/stem                   &   0.570348 &   0.960666 \\

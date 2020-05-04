@@ -4,19 +4,21 @@
 Estimator                           &            &            \\
 \midrule
 boeck2015/tempodetector2016\_default &   0.860360 &   0.936937 \\
+boeck2019/multi\_task\_hjdb           &   0.824324 &   0.927928 \\
+boeck2019/multi\_task                &   0.815315 &   0.927928 \\
 schreiber2018/ismir2018             &   0.801802 &   0.873874 \\
 schreiber2018/fcn                   &   0.792793 &   0.891892 \\
 schreiber2018/cnn                   &   0.779279 &   0.869369 \\
 davies2009/mirex\_qm\_tempotracker    &   0.752252 &   0.855856 \\
+schreiber2017/ismir2017             &   0.747748 &   0.891892 \\
 oliveira2010/ibt                    &   0.743243 &   0.837838 \\
+schreiber2017/mirex2017             &   0.743243 &   0.891892 \\
 klapuri2006/percival2014            &   0.729730 &   0.855856 \\
 percival2014/stem                   &   0.711712 &   0.891892 \\
 zplane/auftakt\_v3                   &   0.711712 &   0.842342 \\
 schreiber2014/default               &   0.707207 &   0.882883 \\
 echonest/version\_3\_2\_1              &   0.680180 &   0.878378 \\
-schreiber2017/mirex2017             &   0.675676 &   0.891892 \\
 gkiokas2012/default                 &   0.671171 &   0.878378 \\
-schreiber2017/ismir2017             &   0.671171 &   0.891892 \\
 scheirer1998/percival2014           &   0.518018 &   0.689189 \\
 \bottomrule
 \end{tabular}

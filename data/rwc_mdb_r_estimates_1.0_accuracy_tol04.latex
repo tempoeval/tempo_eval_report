@@ -3,10 +3,13 @@
 {} &  Accuracy1 &  Accuracy2 \\
 Estimator                           &            &            \\
 \midrule
+schreiber2018/fcn                   &   0.933333 &   1.000000 \\
+schreiber2018/ismir2018             &   0.933333 &   1.000000 \\
+schreiber2018/cnn                   &   0.933333 &   1.000000 \\
+schreiber2017/mirex2017             &   0.933333 &   0.933333 \\
 percival2014/stem                   &   0.866667 &   1.000000 \\
+schreiber2017/ismir2017             &   0.866667 &   0.933333 \\
 boeck2015/tempodetector2016\_default &   0.866667 &   1.000000 \\
-schreiber2017/mirex2017             &   0.800000 &   0.933333 \\
-schreiber2017/ismir2017             &   0.800000 &   0.933333 \\
 davies2009/mirex\_qm\_tempotracker    &   0.733333 &   1.000000 \\
 schreiber2014/default               &   0.733333 &   0.933333 \\
 \bottomrule

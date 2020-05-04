@@ -3,12 +3,14 @@
 {} &  Accuracy1 &  Accuracy2 \\
 Estimator                           &            &            \\
 \midrule
+schreiber2017/mirex2017             &      0.880 &      0.944 \\
+boeck2019/multi\_task\_hjdb           &      0.770 &      0.936 \\
 percival2014/stem                   &      0.769 &      0.928 \\
+schreiber2017/ismir2017             &      0.766 &      0.924 \\
+boeck2019/multi\_task                &      0.761 &      0.934 \\
 schreiber2014/default               &      0.760 &      0.917 \\
 schreiber2018/fcn                   &      0.716 &      0.927 \\
-schreiber2017/mirex2017             &      0.712 &      0.927 \\
 gkiokas2012/default                 &      0.706 &      0.920 \\
-schreiber2017/ismir2017             &      0.704 &      0.927 \\
 schreiber2018/cnn                   &      0.702 &      0.936 \\
 boeck2015/tempodetector2016\_default &      0.693 &      0.942 \\
 klapuri2006/percival2014            &      0.690 &      0.910 \\

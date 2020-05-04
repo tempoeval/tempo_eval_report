@@ -3,13 +3,15 @@
 {} &  Accuracy1 &  Accuracy2 \\
 Estimator                           &            &            \\
 \midrule
+schreiber2017/mirex2017             &   0.889890 &   0.959960 \\
 percival2014/stem                   &   0.780781 &   0.941942 \\
+schreiber2017/ismir2017             &   0.780781 &   0.938939 \\
 schreiber2014/default               &   0.773774 &   0.933934 \\
+boeck2019/multi\_task\_hjdb           &   0.773774 &   0.949950 \\
+boeck2019/multi\_task                &   0.768769 &   0.946947 \\
 schreiber2018/fcn                   &   0.726727 &   0.937938 \\
-schreiber2017/mirex2017             &   0.721722 &   0.941942 \\
-schreiber2018/cnn                   &   0.716717 &   0.950951 \\
 gkiokas2012/default                 &   0.716717 &   0.937938 \\
-schreiber2017/ismir2017             &   0.715716 &   0.941942 \\
+schreiber2018/cnn                   &   0.716717 &   0.950951 \\
 boeck2015/tempodetector2016\_default &   0.706707 &   0.955956 \\
 klapuri2006/percival2014            &   0.703704 &   0.924925 \\
 zplane/auftakt\_v3                   &   0.688689 &   0.891892 \\

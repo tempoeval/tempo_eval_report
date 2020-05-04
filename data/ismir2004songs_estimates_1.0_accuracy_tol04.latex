@@ -3,11 +3,11 @@
 {} &  Accuracy1 &  Accuracy2 \\
 Estimator                           &            &            \\
 \midrule
+schreiber2017/mirex2017             &   0.898925 &   0.948387 \\
 schreiber2014/default               &   0.731183 &   0.918280 \\
 schreiber2018/fcn                   &   0.675269 &   0.935484 \\
-schreiber2017/mirex2017             &   0.647312 &   0.920430 \\
+schreiber2017/ismir2017             &   0.668817 &   0.913978 \\
 schreiber2018/cnn                   &   0.645161 &   0.922581 \\
-schreiber2017/ismir2017             &   0.634409 &   0.920430 \\
 percival2014/stem                   &   0.608602 &   0.860215 \\
 schreiber2018/ismir2018             &   0.587097 &   0.918280 \\
 klapuri2006/ismir2004               &   0.582796 &   0.909677 \\
@@ -17,9 +17,9 @@ gkiokas2012/default                 &   0.567742 &   0.907527 \\
 zplane/auftakt\_v3                   &   0.561290 &   0.823656 \\
 boeck2015/tempodetector2016\_default &   0.554839 &   0.948387 \\
 oliveira2010/ibt                    &   0.466667 &   0.767742 \\
+davies2009/mirex\_qm\_tempotracker    &   0.438710 &   0.819355 \\
 scheirer1998/percival2014           &   0.425806 &   0.643011 \\
 uhle2004/ismir2004                  &   0.419355 &   0.720430 \\
-davies2009/mirex\_qm\_tempotracker    &   0.397849 &   0.759140 \\
 scheirer1998/ismir2004              &   0.378495 &   0.694624 \\
 alonso2004/ismir2004\_spec           &   0.374194 &   0.686022 \\
 dixon2001/ismir2004\_indu            &   0.286022 &   0.627957 \\

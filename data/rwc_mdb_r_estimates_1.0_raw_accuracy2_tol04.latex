@@ -1,22 +1,22 @@
-\begin{tabular}{lllllll}
+\begin{tabular}{llllllllll}
 \toprule
-{} &  davies2009/mirex\_qm\_tempotracker &  percival2014/stem &  schreiber2017/mirex2017 &  schreiber2017/ismir2017 &  boeck2015/tempodetector2016\_default &  schreiber2014/default \\
-Item         &                                   &                    &                          &                          &                                      &                        \\
+{} &  davies2009/mirex\_qm\_tempotracker &  schreiber2018/fcn &  schreiber2018/ismir2018 &  schreiber2018/cnn &  percival2014/stem &  schreiber2017/mirex2017 &  schreiber2017/ismir2017 &  boeck2015/tempodetector2016\_default &  schreiber2014/default \\
+Item         &                                   &                    &                          &                    &                    &                          &                          &                                      &                        \\
 \midrule
-RM-R001.jams &                              True &               True &                     True &                     True &                                 True &                   True \\
-RM-R002.jams &                              True &               True &                     True &                     True &                                 True &                   True \\
-RM-R003.jams &                              True &               True &                     True &                     True &                                 True &                   True \\
-RM-R004.jams &                              True &               True &                     True &                     True &                                 True &                   True \\
-RM-R005.jams &                              True &               True &                     True &                     True &                                 True &                   True \\
-RM-R006.jams &                              True &               True &                     True &                     True &                                 True &                   True \\
-RM-R007.jams &                              True &               True &                     True &                     True &                                 True &                   True \\
-RM-R008.jams &                              True &               True &                     True &                     True &                                 True &                   True \\
-RM-R009.jams &                              True &               True &                     True &                     True &                                 True &                   True \\
-RM-R010.jams &                              True &               True &                     True &                     True &                                 True &                   True \\
-RM-R011.jams &                              True &               True &                     True &                     True &                                 True &                   True \\
-RM-R012.jams &                              True &               True &                     True &                     True &                                 True &                   True \\
-RM-R013.jams &                              True &               True &                    False &                    False &                                 True &                  False \\
-RM-R014.jams &                              True &               True &                     True &                     True &                                 True &                   True \\
-RM-R015.jams &                              True &               True &                     True &                     True &                                 True &                   True \\
+RM-R001.jams &                              True &               True &                     True &               True &               True &                     True &                     True &                                 True &                   True \\
+RM-R002.jams &                              True &               True &                     True &               True &               True &                     True &                     True &                                 True &                   True \\
+RM-R003.jams &                              True &               True &                     True &               True &               True &                     True &                     True &                                 True &                   True \\
+RM-R004.jams &                              True &               True &                     True &               True &               True &                     True &                     True &                                 True &                   True \\
+RM-R005.jams &                              True &               True &                     True &               True &               True &                     True &                     True &                                 True &                   True \\
+RM-R006.jams &                              True &               True &                     True &               True &               True &                     True &                     True &                                 True &                   True \\
+RM-R007.jams &                              True &               True &                     True &               True &               True &                     True &                     True &                                 True &                   True \\
+RM-R008.jams &                              True &               True &                     True &               True &               True &                     True &                     True &                                 True &                   True \\
+RM-R009.jams &                              True &               True &                     True &               True &               True &                     True &                     True &                                 True &                   True \\
+RM-R010.jams &                              True &               True &                     True &               True &               True &                     True &                     True &                                 True &                   True \\
+RM-R011.jams &                              True &               True &                     True &               True &               True &                     True &                     True &                                 True &                   True \\
+RM-R012.jams &                              True &               True &                     True &               True &               True &                     True &                     True &                                 True &                   True \\
+RM-R013.jams &                              True &               True &                     True &               True &               True &                    False &                    False &                                 True &                  False \\
+RM-R014.jams &                              True &               True &                     True &               True &               True &                     True &                     True &                                 True &                   True \\
+RM-R015.jams &                              True &               True &                     True &               True &               True &                     True &                     True &                                 True &                   True \\
 \bottomrule
 \end{tabular}

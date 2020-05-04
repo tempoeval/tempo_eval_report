@@ -3,10 +3,10 @@
 {} &   P-Score &  One Correct &  Both Correct \\
 Estimator                           &           &              &               \\
 \midrule
+schreiber2017/ismir2017             &  0.866164 &     0.928351 &      0.667294 \\
 schreiber2014/default               &  0.865125 &     0.928111 &      0.661130 \\
+schreiber2017/mirex2017             &  0.857775 &     0.918505 &      0.655446 \\
 boeck2015/tempodetector2016\_default &  0.844720 &     0.925429 &      0.514150 \\
-schreiber2017/ismir2017             &  0.838329 &     0.917944 &      0.538446 \\
-schreiber2017/mirex2017             &  0.825546 &     0.916503 &      0.517272 \\
 davies2009/mirex\_qm\_tempotracker    &  0.782759 &     0.873674 &      0.469679 \\
 percival2014/stem                   &  0.669773 &     0.872834 &      0.015410 \\
 \bottomrule

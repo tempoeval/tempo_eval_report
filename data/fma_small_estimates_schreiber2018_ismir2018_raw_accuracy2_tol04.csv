@@ -59,7 +59,7 @@ Item,davies2009/mirex_qm_tempotracker,schreiber2018/fcn,schreiber2018/cnn,perciv
 000/000897.jams,False,True,True,True,True,True,True,True
 000/000993.jams,True,True,True,True,True,True,True,True
 000/000995.jams,False,False,True,False,False,False,False,True
-000/000997.jams,False,True,False,False,True,True,False,False
+000/000997.jams,False,True,False,False,True,False,False,False
 000/000998.jams,True,True,True,True,False,False,True,False
 001/001039.jams,False,True,True,True,True,True,True,True
 001/001040.jams,False,True,True,True,True,True,True,True
@@ -104,7 +104,7 @@ Item,davies2009/mirex_qm_tempotracker,schreiber2018/fcn,schreiber2018/cnn,perciv
 001/001687.jams,True,True,True,True,True,True,True,True
 001/001688.jams,False,True,True,True,True,True,True,True
 001/001689.jams,True,True,True,True,False,False,True,False
-001/001701.jams,False,True,False,False,True,True,True,False
+001/001701.jams,False,True,False,False,False,False,True,False
 001/001702.jams,True,True,True,True,True,True,True,True
 001/001703.jams,False,True,False,True,False,False,True,False
 001/001704.jams,True,True,True,True,True,True,True,True
@@ -121,7 +121,7 @@ Item,davies2009/mirex_qm_tempotracker,schreiber2018/fcn,schreiber2018/cnn,perciv
 001/001925.jams,True,True,True,True,True,True,True,True
 001/001929.jams,False,True,True,False,True,True,True,True
 001/001930.jams,False,True,True,True,True,True,True,True
-002/002012.jams,False,True,False,True,False,False,True,True
+002/002012.jams,False,True,False,True,False,True,True,True
 002/002096.jams,True,True,True,True,False,False,False,False
 002/002097.jams,True,False,False,True,True,True,True,True
 002/002099.jams,True,True,True,True,True,True,True,True
@@ -184,7 +184,7 @@ Item,davies2009/mirex_qm_tempotracker,schreiber2018/fcn,schreiber2018/cnn,perciv
 004/004022.jams,True,True,True,True,True,True,True,True
 004/004037.jams,True,True,True,True,True,True,True,True
 004/004066.jams,False,False,False,False,False,False,False,False
-004/004067.jams,False,True,True,False,False,False,False,True
+004/004067.jams,False,True,True,False,False,True,False,True
 004/004068.jams,False,False,False,False,False,False,True,False
 004/004069.jams,False,True,True,True,False,False,True,True
 004/004070.jams,True,True,True,True,True,True,True,True
@@ -213,7 +213,7 @@ Item,davies2009/mirex_qm_tempotracker,schreiber2018/fcn,schreiber2018/cnn,perciv
 004/004103.jams,False,True,True,True,True,True,True,True
 004/004108.jams,True,True,True,True,True,True,True,True
 004/004232.jams,True,True,True,True,True,True,True,True
-004/004233.jams,False,False,False,False,False,False,False,True
+004/004233.jams,False,False,False,False,False,True,False,True
 004/004234.jams,True,True,True,True,True,True,True,True
 004/004235.jams,True,True,True,True,True,True,True,True
 004/004236.jams,True,True,True,True,True,True,True,True
@@ -261,13 +261,13 @@ Item,davies2009/mirex_qm_tempotracker,schreiber2018/fcn,schreiber2018/cnn,perciv
 005/005191.jams,False,False,False,False,False,False,True,False
 005/005264.jams,False,True,True,True,True,True,True,True
 005/005268.jams,True,True,True,True,True,True,True,True
-005/005376.jams,False,True,True,False,True,True,False,True
+005/005376.jams,False,True,True,False,False,False,False,True
 005/005381.jams,True,False,True,False,True,True,True,True
 005/005521.jams,True,True,True,True,True,True,True,True
 005/005879.jams,True,True,True,True,True,True,True,True
 005/005936.jams,True,True,True,True,True,True,True,True
 005/005940.jams,True,True,True,True,True,True,True,True
-006/006329.jams,False,True,True,False,True,True,True,False
+006/006329.jams,False,True,True,False,False,False,True,False
 006/006330.jams,True,True,True,True,True,True,True,True
 006/006331.jams,True,True,False,True,False,False,False,False
 006/006332.jams,True,True,True,True,True,True,True,True
@@ -368,7 +368,7 @@ Item,davies2009/mirex_qm_tempotracker,schreiber2018/fcn,schreiber2018/cnn,perciv
 007/007528.jams,True,True,True,True,True,True,True,True
 007/007529.jams,True,True,True,True,True,True,True,True
 007/007548.jams,False,False,True,False,False,False,False,False
-007/007554.jams,True,False,False,False,True,True,False,False
+007/007554.jams,True,False,False,False,True,False,False,False
 007/007709.jams,True,True,True,True,True,True,True,True
 007/007710.jams,True,True,True,True,True,True,True,True
 007/007711.jams,True,True,True,True,True,True,True,True
@@ -389,7 +389,7 @@ Item,davies2009/mirex_qm_tempotracker,schreiber2018/fcn,schreiber2018/cnn,perciv
 009/009155.jams,False,False,False,False,False,False,False,False
 009/009307.jams,False,False,True,True,True,True,True,True
 009/009476.jams,False,True,False,False,False,False,True,False
-009/009477.jams,True,True,True,True,True,True,False,True
+009/009477.jams,True,True,True,True,True,False,False,True
 009/009491.jams,True,True,True,True,True,True,True,True
 009/009505.jams,False,True,True,True,True,True,False,True
 009/009511.jams,True,True,True,True,True,True,True,True
@@ -517,7 +517,7 @@ Item,davies2009/mirex_qm_tempotracker,schreiber2018/fcn,schreiber2018/cnn,perciv
 011/011767.jams,True,True,True,True,True,True,True,True
 011/011768.jams,True,True,True,True,True,True,True,True
 011/011769.jams,True,True,True,True,True,True,True,True
-011/011770.jams,True,True,True,True,True,True,True,True
+011/011770.jams,True,True,True,True,True,False,True,True
 011/011771.jams,True,True,True,True,True,True,True,True
 011/011772.jams,True,True,True,True,True,True,True,True
 011/011773.jams,True,True,True,True,True,True,True,True
@@ -569,10 +569,10 @@ Item,davies2009/mirex_qm_tempotracker,schreiber2018/fcn,schreiber2018/cnn,perciv
 012/012048.jams,True,True,True,True,True,True,True,True
 012/012049.jams,True,True,True,True,True,True,True,True
 012/012050.jams,True,True,True,True,True,True,True,True
-012/012051.jams,False,False,False,False,True,True,False,False
+012/012051.jams,False,False,False,False,True,False,False,False
 012/012052.jams,True,True,True,True,True,True,True,True
 012/012053.jams,True,True,True,True,True,True,True,True
-012/012058.jams,True,True,True,True,False,False,True,True
+012/012058.jams,True,True,True,True,True,True,True,True
 012/012059.jams,True,True,True,True,True,True,True,True
 012/012060.jams,True,True,True,True,True,True,True,True
 012/012061.jams,False,False,True,False,False,False,False,False
@@ -739,7 +739,7 @@ Item,davies2009/mirex_qm_tempotracker,schreiber2018/fcn,schreiber2018/cnn,perciv
 015/015464.jams,False,False,False,False,True,True,False,False
 015/015469.jams,False,True,True,True,False,False,False,True
 015/015471.jams,False,True,True,True,False,False,False,False
-015/015475.jams,True,True,True,True,False,False,False,True
+015/015475.jams,True,True,True,True,True,True,False,True
 015/015476.jams,False,True,True,True,False,False,True,False
 015/015487.jams,False,False,False,False,False,False,False,False
 015/015488.jams,True,True,True,True,True,True,True,True
@@ -905,7 +905,7 @@ Item,davies2009/mirex_qm_tempotracker,schreiber2018/fcn,schreiber2018/cnn,perciv
 021/021676.jams,True,True,True,True,True,True,True,True
 021/021677.jams,True,True,True,True,True,True,True,True
 021/021707.jams,True,True,True,True,True,True,True,True
-021/021774.jams,False,True,True,False,True,True,False,True
+021/021774.jams,False,True,True,False,True,False,False,True
 021/021842.jams,False,False,False,False,False,False,False,False
 021/021859.jams,True,True,True,True,True,True,True,True
 021/021860.jams,True,True,True,True,True,True,True,True
@@ -988,7 +988,7 @@ Item,davies2009/mirex_qm_tempotracker,schreiber2018/fcn,schreiber2018/cnn,perciv
 024/024512.jams,False,True,False,False,False,False,False,True
 024/024515.jams,False,False,False,False,False,False,False,False
 024/024521.jams,False,False,True,True,False,False,False,False
-024/024524.jams,False,False,False,False,False,False,True,False
+024/024524.jams,False,False,False,False,True,True,True,False
 024/024698.jams,True,True,True,True,True,True,True,True
 024/024699.jams,True,True,True,True,True,True,True,True
 024/024700.jams,False,True,True,True,True,True,True,True
@@ -1018,8 +1018,8 @@ Item,davies2009/mirex_qm_tempotracker,schreiber2018/fcn,schreiber2018/cnn,perciv
 025/025029.jams,False,True,True,True,True,True,True,True
 025/025030.jams,False,True,True,True,True,True,True,True
 025/025031.jams,True,True,True,True,True,True,True,True
-025/025032.jams,True,True,True,True,True,True,True,True
-025/025033.jams,True,True,True,True,False,False,True,True
+025/025032.jams,True,True,True,True,True,False,True,True
+025/025033.jams,True,True,True,True,True,True,True,True
 025/025055.jams,True,True,True,True,True,True,True,True
 025/025063.jams,True,True,True,True,True,True,True,True
 025/025066.jams,True,True,True,True,True,True,True,True
@@ -1029,8 +1029,8 @@ Item,davies2009/mirex_qm_tempotracker,schreiber2018/fcn,schreiber2018/cnn,perciv
 025/025216.jams,True,True,True,True,True,True,True,True
 025/025227.jams,False,False,False,False,False,False,False,False
 025/025232.jams,False,True,False,False,False,False,False,False
-025/025233.jams,False,True,True,True,False,False,True,True
-025/025234.jams,False,False,False,False,True,True,True,True
+025/025233.jams,False,True,True,True,True,True,True,True
+025/025234.jams,False,False,False,False,True,False,True,True
 025/025235.jams,False,True,True,True,True,True,True,True
 025/025324.jams,True,True,True,True,True,True,True,True
 025/025378.jams,True,True,True,True,True,True,True,True
@@ -1184,7 +1184,7 @@ Item,davies2009/mirex_qm_tempotracker,schreiber2018/fcn,schreiber2018/cnn,perciv
 029/029255.jams,False,True,True,True,True,True,True,True
 029/029271.jams,True,True,True,True,True,True,True,True
 029/029272.jams,True,True,True,True,True,True,True,True
-029/029350.jams,True,False,False,False,False,False,False,False
+029/029350.jams,True,False,False,False,False,True,False,False
 029/029351.jams,False,True,True,True,True,True,True,True
 029/029355.jams,True,True,True,True,True,True,True,True
 029/029465.jams,True,True,True,True,True,True,True,True
@@ -1457,7 +1457,7 @@ Item,davies2009/mirex_qm_tempotracker,schreiber2018/fcn,schreiber2018/cnn,perciv
 038/038363.jams,True,False,True,True,True,True,True,True
 038/038365.jams,True,True,True,True,True,True,True,True
 038/038399.jams,True,True,True,True,True,True,True,True
-038/038435.jams,False,False,False,False,False,False,False,True
+038/038435.jams,False,False,False,False,False,True,False,True
 038/038450.jams,True,True,True,True,True,True,True,True
 038/038522.jams,True,True,True,False,True,True,True,True
 038/038557.jams,True,True,True,True,True,True,True,True
@@ -1482,19 +1482,19 @@ Item,davies2009/mirex_qm_tempotracker,schreiber2018/fcn,schreiber2018/cnn,perciv
 038/038823.jams,True,True,True,True,True,True,True,True
 038/038824.jams,True,True,False,False,True,True,True,True
 038/038825.jams,True,True,True,True,True,True,True,True
-038/038826.jams,True,True,True,False,False,False,True,False
+038/038826.jams,True,True,True,False,True,False,True,False
 038/038827.jams,True,True,True,True,True,True,True,True
 038/038828.jams,True,True,True,True,True,True,True,True
 038/038829.jams,True,True,False,False,False,False,True,True
 038/038830.jams,True,True,True,True,True,True,True,True
 038/038833.jams,False,True,True,True,True,True,True,True
 038/038834.jams,True,True,True,True,True,True,True,True
-038/038847.jams,False,False,False,False,False,False,False,True
+038/038847.jams,False,False,False,False,True,True,False,True
 038/038859.jams,False,True,True,True,True,True,True,True
 038/038878.jams,True,True,True,True,True,True,True,True
 038/038879.jams,True,True,True,True,False,False,True,False
 038/038880.jams,True,True,True,True,True,True,True,True
-038/038881.jams,False,True,True,False,True,True,True,True
+038/038881.jams,False,True,True,False,True,False,True,True
 038/038882.jams,True,True,True,True,True,True,True,True
 038/038884.jams,True,False,False,True,True,True,True,False
 038/038886.jams,True,True,True,True,True,True,True,True
@@ -1566,7 +1566,7 @@ Item,davies2009/mirex_qm_tempotracker,schreiber2018/fcn,schreiber2018/cnn,perciv
 040/040147.jams,False,True,True,True,False,False,True,False
 040/040161.jams,True,True,True,True,False,False,False,False
 040/040180.jams,True,True,True,True,True,True,True,True
-040/040182.jams,False,True,False,False,True,True,False,False
+040/040182.jams,False,True,False,False,True,False,False,False
 040/040229.jams,True,True,True,True,True,True,True,True
 040/040230.jams,True,True,True,True,True,True,True,True
 040/040231.jams,True,True,True,True,True,True,True,True
@@ -1593,7 +1593,7 @@ Item,davies2009/mirex_qm_tempotracker,schreiber2018/fcn,schreiber2018/cnn,perciv
 040/040654.jams,False,True,False,False,False,False,False,False
 040/040655.jams,False,False,False,False,False,False,False,False
 040/040656.jams,False,True,False,True,False,False,False,False
-040/040657.jams,False,True,False,False,False,False,False,False
+040/040657.jams,False,True,False,False,False,True,False,False
 040/040658.jams,True,True,True,True,True,True,True,True
 040/040659.jams,True,True,True,True,True,True,True,True
 040/040660.jams,False,True,False,False,False,False,True,False
@@ -1624,7 +1624,7 @@ Item,davies2009/mirex_qm_tempotracker,schreiber2018/fcn,schreiber2018/cnn,perciv
 041/041381.jams,True,True,True,True,True,True,True,True
 041/041568.jams,True,True,True,True,True,True,True,True
 041/041570.jams,True,True,True,False,True,True,False,True
-041/041573.jams,False,True,False,False,True,True,False,False
+041/041573.jams,False,True,False,False,True,False,False,False
 041/041605.jams,True,True,True,True,True,True,True,True
 041/041709.jams,True,True,True,True,True,True,True,True
 041/041714.jams,False,False,False,True,False,False,False,False
@@ -1658,7 +1658,7 @@ Item,davies2009/mirex_qm_tempotracker,schreiber2018/fcn,schreiber2018/cnn,perciv
 042/042129.jams,True,True,True,True,True,True,True,True
 042/042135.jams,True,True,True,True,True,True,True,True
 042/042138.jams,True,True,True,True,True,True,True,True
-042/042139.jams,True,True,True,True,True,False,True,True
+042/042139.jams,True,True,True,True,False,False,True,True
 042/042141.jams,True,True,True,True,True,True,True,True
 042/042146.jams,True,True,True,True,True,True,True,True
 042/042234.jams,True,True,True,True,True,True,True,True
@@ -1765,7 +1765,7 @@ Item,davies2009/mirex_qm_tempotracker,schreiber2018/fcn,schreiber2018/cnn,perciv
 043/043868.jams,True,True,True,False,True,True,True,True
 043/043869.jams,True,True,True,True,True,True,True,True
 043/043883.jams,True,True,False,False,False,False,False,True
-043/043886.jams,False,False,False,False,True,True,False,False
+043/043886.jams,False,False,False,False,True,False,False,False
 043/043899.jams,False,False,False,False,True,True,False,True
 043/043911.jams,False,False,False,False,False,False,False,False
 043/043962.jams,True,True,True,True,True,True,True,True
@@ -1775,7 +1775,7 @@ Item,davies2009/mirex_qm_tempotracker,schreiber2018/fcn,schreiber2018/cnn,perciv
 044/044169.jams,True,False,False,False,False,False,True,False
 044/044236.jams,True,True,True,True,True,True,True,True
 044/044342.jams,False,False,False,False,False,False,False,False
-044/044347.jams,False,False,False,False,True,True,False,False
+044/044347.jams,False,False,False,False,False,False,False,False
 044/044354.jams,True,False,False,True,True,True,True,False
 044/044355.jams,True,True,True,True,True,True,True,True
 044/044777.jams,False,True,True,False,True,True,False,True
@@ -1799,7 +1799,7 @@ Item,davies2009/mirex_qm_tempotracker,schreiber2018/fcn,schreiber2018/cnn,perciv
 044/044803.jams,True,True,True,True,True,True,True,True
 044/044804.jams,True,True,True,True,True,True,True,True
 044/044805.jams,True,True,True,True,True,True,True,True
-044/044806.jams,False,False,True,False,True,True,True,True
+044/044806.jams,False,False,True,False,True,False,True,True
 044/044809.jams,True,True,True,True,True,True,True,True
 044/044820.jams,True,False,True,True,True,True,True,True
 044/044821.jams,True,True,True,True,True,True,True,True
@@ -1932,7 +1932,7 @@ Item,davies2009/mirex_qm_tempotracker,schreiber2018/fcn,schreiber2018/cnn,perciv
 047/047661.jams,True,True,True,True,True,True,True,True
 047/047662.jams,True,True,True,True,True,True,True,True
 047/047663.jams,True,True,True,True,True,True,True,True
-047/047665.jams,False,True,True,False,True,True,True,False
+047/047665.jams,False,True,True,False,True,False,True,False
 047/047666.jams,True,True,True,True,True,True,True,True
 047/047670.jams,False,True,True,True,True,True,True,True
 047/047671.jams,True,True,True,True,True,True,True,True
@@ -2097,7 +2097,7 @@ Item,davies2009/mirex_qm_tempotracker,schreiber2018/fcn,schreiber2018/cnn,perciv
 051/051991.jams,True,True,True,True,True,True,True,True
 051/051992.jams,True,True,True,True,True,True,True,True
 051/051998.jams,True,True,True,True,True,True,True,True
-051/051999.jams,True,True,True,True,False,True,True,True
+051/051999.jams,True,True,True,True,True,True,True,True
 052/052000.jams,True,True,True,True,True,True,True,True
 052/052001.jams,True,True,True,True,True,True,True,True
 052/052034.jams,True,True,True,True,True,True,True,True
@@ -2124,7 +2124,7 @@ Item,davies2009/mirex_qm_tempotracker,schreiber2018/fcn,schreiber2018/cnn,perciv
 052/052129.jams,False,True,True,False,False,False,False,False
 052/052141.jams,False,True,True,True,True,True,True,True
 052/052375.jams,True,True,True,True,True,True,True,True
-052/052380.jams,True,True,True,True,True,True,True,True
+052/052380.jams,True,True,True,True,True,False,True,True
 052/052389.jams,False,False,False,False,False,False,False,False
 052/052393.jams,True,True,True,True,False,False,True,False
 052/052409.jams,True,True,True,True,True,True,True,True
@@ -2214,7 +2214,7 @@ Item,davies2009/mirex_qm_tempotracker,schreiber2018/fcn,schreiber2018/cnn,perciv
 054/054019.jams,True,True,True,True,True,True,True,True
 054/054031.jams,True,True,True,True,True,True,True,True
 054/054032.jams,True,True,False,False,True,True,True,True
-054/054033.jams,False,True,False,False,True,True,True,False
+054/054033.jams,False,True,False,False,False,False,True,False
 054/054034.jams,True,True,True,True,True,True,True,True
 054/054037.jams,True,True,True,True,False,False,False,True
 054/054039.jams,True,True,True,True,True,True,True,True
@@ -2343,7 +2343,7 @@ Item,davies2009/mirex_qm_tempotracker,schreiber2018/fcn,schreiber2018/cnn,perciv
 055/055719.jams,True,True,True,True,True,True,True,True
 055/055782.jams,True,True,True,True,True,True,True,True
 055/055783.jams,True,True,True,True,True,True,True,True
-055/055786.jams,True,False,False,False,True,True,False,False
+055/055786.jams,True,False,False,False,True,False,False,False
 055/055807.jams,True,True,True,True,True,True,True,True
 055/055808.jams,True,True,True,True,True,True,True,True
 055/055809.jams,True,True,True,True,True,True,True,True
@@ -2459,7 +2459,7 @@ Item,davies2009/mirex_qm_tempotracker,schreiber2018/fcn,schreiber2018/cnn,perciv
 057/057540.jams,True,True,True,True,True,True,True,True
 057/057569.jams,True,True,True,True,True,True,True,True
 057/057626.jams,True,True,True,True,True,True,True,True
-057/057627.jams,False,False,False,False,True,True,False,False
+057/057627.jams,False,False,False,False,True,False,False,False
 057/057628.jams,True,True,True,True,True,True,True,True
 057/057629.jams,False,False,False,False,False,False,False,True
 057/057630.jams,False,False,True,False,False,False,True,False
@@ -2480,7 +2480,7 @@ Item,davies2009/mirex_qm_tempotracker,schreiber2018/fcn,schreiber2018/cnn,perciv
 057/057823.jams,True,True,True,True,False,False,True,False
 057/057891.jams,True,True,True,True,True,True,True,True
 057/057892.jams,True,True,True,True,True,True,True,True
-057/057936.jams,True,True,False,True,True,True,True,True
+057/057936.jams,True,True,False,True,False,False,True,True
 057/057937.jams,True,True,True,True,True,True,True,True
 057/057938.jams,True,True,True,True,True,True,True,True
 057/057939.jams,True,False,True,False,False,False,True,False
@@ -2570,8 +2570,8 @@ Item,davies2009/mirex_qm_tempotracker,schreiber2018/fcn,schreiber2018/cnn,perciv
 059/059708.jams,True,True,True,True,True,True,True,True
 059/059709.jams,True,True,False,True,False,False,True,False
 059/059710.jams,True,True,True,True,False,False,True,True
-059/059711.jams,False,True,False,False,True,False,False,True
-059/059718.jams,False,False,False,False,True,True,False,False
+059/059711.jams,False,True,False,False,False,False,False,True
+059/059718.jams,False,False,False,False,True,False,False,False
 059/059719.jams,False,True,False,True,True,True,True,True
 059/059720.jams,True,True,True,True,True,True,True,True
 059/059721.jams,True,True,True,True,True,True,True,True
@@ -2954,7 +2954,7 @@ Item,davies2009/mirex_qm_tempotracker,schreiber2018/fcn,schreiber2018/cnn,perciv
 067/067470.jams,True,True,True,True,True,True,True,True
 067/067500.jams,True,True,True,True,True,True,True,True
 067/067553.jams,True,True,True,True,True,True,True,True
-067/067556.jams,True,True,True,True,True,True,True,True
+067/067556.jams,True,True,True,True,True,False,True,True
 067/067557.jams,True,True,True,True,True,True,True,True
 067/067558.jams,True,True,True,True,True,True,True,True
 067/067597.jams,True,False,False,True,True,True,True,True
@@ -2992,7 +2992,7 @@ Item,davies2009/mirex_qm_tempotracker,schreiber2018/fcn,schreiber2018/cnn,perciv
 068/068540.jams,False,False,False,False,False,False,False,False
 068/068541.jams,False,False,False,False,False,False,False,False
 068/068543.jams,False,True,False,False,False,False,True,False
-068/068549.jams,False,False,False,False,False,False,False,True
+068/068549.jams,False,False,False,False,False,True,False,True
 068/068551.jams,False,False,False,False,False,False,False,False
 068/068573.jams,False,True,False,False,False,False,False,False
 068/068579.jams,False,False,True,False,False,False,False,True
@@ -3260,7 +3260,7 @@ Item,davies2009/mirex_qm_tempotracker,schreiber2018/fcn,schreiber2018/cnn,perciv
 072/072607.jams,True,True,True,True,True,True,True,True
 072/072612.jams,True,True,True,True,True,True,True,True
 072/072738.jams,True,True,True,True,True,True,True,True
-072/072781.jams,False,False,True,False,True,True,True,False
+072/072781.jams,False,False,True,False,True,False,True,False
 072/072782.jams,True,True,True,True,True,True,True,True
 072/072783.jams,False,True,True,True,True,True,True,True
 072/072784.jams,True,True,True,True,True,True,True,True
@@ -3270,7 +3270,7 @@ Item,davies2009/mirex_qm_tempotracker,schreiber2018/fcn,schreiber2018/cnn,perciv
 072/072788.jams,True,True,True,True,True,True,True,True
 072/072789.jams,True,True,True,True,True,True,True,True
 072/072790.jams,True,True,True,True,True,True,True,True
-072/072926.jams,True,True,True,True,True,True,True,True
+072/072926.jams,True,True,True,True,True,False,True,True
 072/072927.jams,True,False,True,True,False,False,True,False
 072/072928.jams,True,True,True,False,True,True,False,True
 072/072930.jams,False,True,False,False,False,False,True,False
@@ -3386,7 +3386,7 @@ Item,davies2009/mirex_qm_tempotracker,schreiber2018/fcn,schreiber2018/cnn,perciv
 074/074387.jams,True,True,True,False,True,True,True,True
 074/074388.jams,False,True,True,False,True,True,True,True
 074/074389.jams,True,True,True,True,True,True,True,True
-074/074390.jams,False,True,True,True,True,True,True,False
+074/074390.jams,False,True,True,True,True,False,True,False
 074/074391.jams,True,True,True,True,True,True,True,True
 074/074392.jams,True,True,True,True,True,True,True,True
 074/074393.jams,True,True,True,True,True,True,True,True
@@ -3561,7 +3561,7 @@ Item,davies2009/mirex_qm_tempotracker,schreiber2018/fcn,schreiber2018/cnn,perciv
 079/079616.jams,True,True,True,True,True,True,True,True
 079/079741.jams,False,False,True,False,True,True,False,True
 079/079973.jams,False,False,False,False,False,False,False,False
-079/079975.jams,True,False,False,True,False,False,False,False
+079/079975.jams,True,False,False,True,False,True,False,False
 079/079977.jams,False,False,False,False,False,False,True,True
 079/079978.jams,False,True,False,False,False,False,False,False
 079/079985.jams,True,True,True,True,True,True,True,True
@@ -3600,7 +3600,7 @@ Item,davies2009/mirex_qm_tempotracker,schreiber2018/fcn,schreiber2018/cnn,perciv
 080/080753.jams,True,True,True,True,True,True,True,True
 080/080754.jams,False,True,True,True,True,True,True,True
 080/080755.jams,False,True,False,True,True,True,True,True
-080/080756.jams,False,False,False,False,True,True,False,False
+080/080756.jams,False,False,False,False,False,False,False,False
 080/080758.jams,True,True,True,True,False,False,True,False
 080/080765.jams,True,True,True,True,True,True,True,True
 080/080766.jams,True,True,True,True,True,True,True,True
@@ -3695,7 +3695,7 @@ Item,davies2009/mirex_qm_tempotracker,schreiber2018/fcn,schreiber2018/cnn,perciv
 082/082932.jams,True,True,True,True,True,True,True,True
 083/083437.jams,False,False,False,False,False,False,False,True
 083/083438.jams,True,True,True,True,True,True,True,True
-083/083439.jams,False,False,True,False,True,True,False,True
+083/083439.jams,False,False,True,False,False,False,False,True
 083/083440.jams,True,False,False,False,False,False,False,False
 083/083507.jams,True,True,True,False,True,True,True,True
 083/083509.jams,False,False,True,False,False,False,True,False
@@ -3819,7 +3819,7 @@ Item,davies2009/mirex_qm_tempotracker,schreiber2018/fcn,schreiber2018/cnn,perciv
 085/085600.jams,True,True,True,True,True,True,True,True
 085/085691.jams,True,True,True,True,True,True,True,True
 085/085692.jams,False,False,True,False,True,True,True,False
-085/085693.jams,False,True,True,True,False,False,False,False
+085/085693.jams,False,True,True,True,False,True,False,False
 085/085787.jams,False,False,True,False,True,True,False,True
 085/085788.jams,True,False,True,True,True,True,True,True
 085/085791.jams,True,True,True,True,True,True,True,True
@@ -3881,14 +3881,14 @@ Item,davies2009/mirex_qm_tempotracker,schreiber2018/fcn,schreiber2018/cnn,perciv
 086/086485.jams,True,False,False,False,True,True,True,False
 086/086486.jams,True,True,True,True,True,True,True,True
 086/086487.jams,False,True,True,True,True,True,True,True
-086/086562.jams,False,False,False,False,False,False,False,False
+086/086562.jams,False,False,False,False,False,True,False,False
 086/086576.jams,True,True,True,True,True,True,True,True
 086/086623.jams,True,True,True,True,True,True,True,True
 086/086634.jams,True,True,True,True,True,True,True,True
 086/086678.jams,True,True,True,True,True,True,True,True
 086/086679.jams,True,True,True,True,True,True,True,True
 086/086680.jams,True,True,True,True,True,True,True,True
-086/086720.jams,True,True,True,True,True,True,True,True
+086/086720.jams,True,True,True,True,True,False,True,True
 086/086721.jams,True,True,True,True,True,True,True,True
 086/086724.jams,True,True,True,True,True,True,True,True
 086/086725.jams,True,True,True,True,True,True,True,True
@@ -3967,14 +3967,14 @@ Item,davies2009/mirex_qm_tempotracker,schreiber2018/fcn,schreiber2018/cnn,perciv
 088/088485.jams,False,True,False,False,True,True,True,True
 088/088486.jams,False,False,False,False,False,False,False,False
 088/088846.jams,True,True,True,True,True,True,True,True
-088/088848.jams,False,True,True,True,True,True,True,True
+088/088848.jams,False,True,True,True,False,False,True,True
 088/088854.jams,True,True,True,True,True,True,True,True
 088/088856.jams,True,True,True,True,True,True,True,True
 088/088858.jams,True,True,True,True,True,True,True,True
 088/088860.jams,True,True,True,True,True,True,True,True
 088/088861.jams,True,True,True,True,True,True,True,True
 088/088863.jams,True,True,True,True,True,True,True,True
-088/088864.jams,True,False,False,False,False,False,True,True
+088/088864.jams,True,False,False,False,True,False,True,True
 088/088867.jams,True,True,True,True,True,True,True,True
 088/088868.jams,True,True,True,True,True,True,True,True
 088/088869.jams,True,True,True,True,True,True,True,True
@@ -3985,7 +3985,7 @@ Item,davies2009/mirex_qm_tempotracker,schreiber2018/fcn,schreiber2018/cnn,perciv
 088/088874.jams,True,True,True,True,True,True,True,True
 088/088875.jams,True,True,True,True,True,True,True,True
 088/088876.jams,True,True,True,True,True,True,True,True
-088/088877.jams,True,False,False,False,False,False,True,True
+088/088877.jams,True,False,False,False,True,False,True,True
 088/088878.jams,True,True,True,True,False,False,True,True
 088/088879.jams,True,True,True,True,True,True,True,True
 088/088892.jams,True,True,True,True,True,True,True,True
@@ -4026,7 +4026,7 @@ Item,davies2009/mirex_qm_tempotracker,schreiber2018/fcn,schreiber2018/cnn,perciv
 089/089857.jams,True,True,True,True,True,True,True,True
 089/089859.jams,True,True,True,True,True,True,True,True
 089/089860.jams,True,True,True,True,True,True,True,True
-089/089991.jams,False,False,False,False,False,False,False,True
+089/089991.jams,False,False,False,False,False,True,False,True
 089/089992.jams,False,False,False,False,False,False,True,False
 090/090027.jams,False,True,True,True,True,True,True,True
 090/090074.jams,True,True,True,True,False,False,False,False
@@ -4148,7 +4148,7 @@ Item,davies2009/mirex_qm_tempotracker,schreiber2018/fcn,schreiber2018/cnn,perciv
 092/092283.jams,True,True,True,True,True,True,True,True
 092/092284.jams,True,True,True,True,True,True,True,True
 092/092292.jams,False,True,True,True,False,False,False,False
-092/092366.jams,False,False,False,False,False,False,False,False
+092/092366.jams,False,False,False,False,False,True,False,False
 092/092466.jams,True,True,True,True,True,True,True,True
 092/092508.jams,True,True,True,True,True,True,True,True
 092/092535.jams,True,True,True,False,True,True,True,True
@@ -4172,7 +4172,7 @@ Item,davies2009/mirex_qm_tempotracker,schreiber2018/fcn,schreiber2018/cnn,perciv
 092/092872.jams,True,False,False,False,False,False,True,False
 092/092873.jams,True,True,False,False,True,True,True,True
 092/092874.jams,True,True,True,True,True,True,True,True
-092/092878.jams,True,True,True,True,True,True,True,False
+092/092878.jams,True,True,True,True,False,False,True,False
 092/092881.jams,False,False,True,False,True,True,True,False
 092/092885.jams,False,False,True,True,False,False,False,False
 092/092886.jams,False,True,True,True,True,True,True,True
@@ -4197,7 +4197,7 @@ Item,davies2009/mirex_qm_tempotracker,schreiber2018/fcn,schreiber2018/cnn,perciv
 093/093519.jams,False,True,False,False,False,False,False,False
 093/093520.jams,False,False,False,False,False,False,False,False
 093/093521.jams,False,False,False,False,False,False,False,False
-093/093522.jams,False,False,True,False,True,True,False,False
+093/093522.jams,False,False,True,False,True,False,False,False
 093/093523.jams,False,False,False,False,False,False,False,True
 093/093704.jams,True,True,True,True,True,True,True,True
 093/093710.jams,True,True,True,True,True,True,True,True
@@ -4251,7 +4251,7 @@ Item,davies2009/mirex_qm_tempotracker,schreiber2018/fcn,schreiber2018/cnn,perciv
 094/094628.jams,True,True,False,True,True,True,True,True
 094/094630.jams,True,True,True,True,True,True,True,True
 094/094631.jams,True,False,True,True,True,True,True,True
-094/094632.jams,True,True,True,True,False,False,True,True
+094/094632.jams,True,True,True,True,True,True,True,True
 094/094634.jams,True,True,True,True,True,True,True,True
 094/094635.jams,True,True,True,True,True,True,True,True
 094/094638.jams,True,True,True,True,True,True,True,True
@@ -4312,7 +4312,7 @@ Item,davies2009/mirex_qm_tempotracker,schreiber2018/fcn,schreiber2018/cnn,perciv
 096/096731.jams,False,True,False,False,True,True,True,False
 096/096738.jams,True,True,True,False,True,True,True,True
 096/096742.jams,True,False,True,True,True,True,True,True
-096/096743.jams,True,True,False,False,True,True,True,True
+096/096743.jams,True,True,False,False,True,False,True,True
 096/096759.jams,True,True,True,True,True,True,True,True
 096/096898.jams,False,False,False,False,False,False,False,False
 096/096900.jams,False,True,False,False,False,False,False,False
@@ -4494,7 +4494,7 @@ Item,davies2009/mirex_qm_tempotracker,schreiber2018/fcn,schreiber2018/cnn,perciv
 099/099391.jams,True,True,True,False,False,False,False,False
 099/099392.jams,False,True,True,True,True,True,True,True
 099/099393.jams,False,True,True,False,True,True,False,False
-099/099394.jams,True,True,True,True,True,True,True,True
+099/099394.jams,True,True,True,True,True,False,True,True
 099/099395.jams,True,True,True,True,True,True,True,True
 099/099411.jams,False,True,True,True,True,True,True,True
 099/099419.jams,True,True,True,True,True,True,True,True
@@ -4616,7 +4616,7 @@ Item,davies2009/mirex_qm_tempotracker,schreiber2018/fcn,schreiber2018/cnn,perciv
 105/105718.jams,True,True,True,True,True,True,True,True
 105/105719.jams,False,False,False,True,False,False,False,False
 105/105720.jams,True,False,True,False,False,False,False,False
-105/105722.jams,False,False,False,False,False,False,False,True
+105/105722.jams,False,False,False,False,False,True,False,True
 105/105824.jams,True,True,True,True,True,True,True,True
 105/105825.jams,True,True,True,True,True,True,True,False
 105/105826.jams,True,True,True,True,True,True,True,True
@@ -4739,7 +4739,7 @@ Item,davies2009/mirex_qm_tempotracker,schreiber2018/fcn,schreiber2018/cnn,perciv
 107/107595.jams,True,True,True,True,False,False,True,True
 107/107596.jams,True,True,True,True,True,True,True,True
 107/107597.jams,True,True,True,True,True,True,True,True
-107/107598.jams,False,False,True,False,True,True,False,False
+107/107598.jams,False,False,True,False,True,False,False,False
 107/107613.jams,True,True,True,True,True,True,True,True
 107/107616.jams,True,True,True,True,True,True,True,True
 107/107617.jams,True,True,True,True,True,True,True,True
@@ -4927,7 +4927,7 @@ Item,davies2009/mirex_qm_tempotracker,schreiber2018/fcn,schreiber2018/cnn,perciv
 109/109445.jams,False,False,False,False,True,True,False,True
 109/109446.jams,True,True,True,True,True,True,True,True
 109/109447.jams,False,False,False,False,False,False,False,False
-109/109448.jams,False,True,True,True,True,True,True,False
+109/109448.jams,False,True,True,True,False,False,True,False
 109/109449.jams,False,False,False,False,True,True,True,True
 109/109450.jams,True,False,True,True,True,True,True,True
 109/109468.jams,True,True,True,True,True,True,True,True
@@ -4961,7 +4961,7 @@ Item,davies2009/mirex_qm_tempotracker,schreiber2018/fcn,schreiber2018/cnn,perciv
 109/109958.jams,False,False,False,False,False,False,True,False
 109/109960.jams,False,False,True,True,True,True,False,True
 109/109962.jams,False,True,True,False,True,True,True,True
-109/109963.jams,False,True,True,True,False,False,True,True
+109/109963.jams,False,True,True,True,True,True,True,True
 109/109971.jams,True,True,True,True,True,True,True,True
 109/109972.jams,True,True,True,True,True,True,True,True
 109/109973.jams,True,True,False,True,False,False,False,False
@@ -5197,7 +5197,7 @@ Item,davies2009/mirex_qm_tempotracker,schreiber2018/fcn,schreiber2018/cnn,perciv
 112/112780.jams,False,False,True,False,True,True,False,False
 112/112781.jams,False,False,True,False,False,False,False,False
 112/112785.jams,False,True,True,False,True,True,False,True
-112/112788.jams,False,False,True,False,False,False,False,True
+112/112788.jams,False,False,True,False,False,True,False,True
 112/112789.jams,False,False,False,True,False,False,False,False
 112/112790.jams,True,True,True,True,False,False,True,False
 112/112821.jams,True,True,True,True,False,False,False,True
@@ -5340,7 +5340,7 @@ Item,davies2009/mirex_qm_tempotracker,schreiber2018/fcn,schreiber2018/cnn,perciv
 114/114200.jams,False,True,True,True,True,True,True,True
 114/114201.jams,True,True,True,True,True,True,True,True
 114/114212.jams,True,True,True,True,True,True,True,True
-114/114222.jams,False,False,True,False,True,True,True,False
+114/114222.jams,False,False,True,False,False,False,True,False
 114/114223.jams,True,True,True,True,True,True,True,True
 114/114231.jams,True,True,True,True,True,True,True,True
 114/114232.jams,True,True,True,True,True,True,True,True
@@ -5353,7 +5353,7 @@ Item,davies2009/mirex_qm_tempotracker,schreiber2018/fcn,schreiber2018/cnn,perciv
 114/114239.jams,False,False,False,False,False,False,False,False
 114/114242.jams,True,True,True,True,True,True,True,True
 114/114245.jams,True,True,True,True,True,True,True,True
-114/114265.jams,True,True,True,True,False,True,True,True
+114/114265.jams,True,True,True,True,True,True,True,True
 114/114266.jams,True,True,True,True,True,True,True,True
 114/114268.jams,True,True,True,True,True,True,True,True
 114/114272.jams,True,True,True,True,True,True,True,True
@@ -5450,7 +5450,7 @@ Item,davies2009/mirex_qm_tempotracker,schreiber2018/fcn,schreiber2018/cnn,perciv
 115/115288.jams,True,True,True,True,True,True,True,True
 115/115289.jams,True,True,True,True,True,True,True,True
 115/115290.jams,True,True,True,True,True,True,True,True
-115/115292.jams,False,False,True,False,True,True,True,False
+115/115292.jams,False,False,True,False,False,False,True,False
 115/115293.jams,True,True,True,True,True,True,True,True
 115/115294.jams,True,True,True,True,True,True,True,True
 115/115321.jams,True,True,True,True,True,True,True,True
@@ -5668,7 +5668,7 @@ Item,davies2009/mirex_qm_tempotracker,schreiber2018/fcn,schreiber2018/cnn,perciv
 118/118195.jams,True,True,True,True,True,True,True,True
 118/118196.jams,True,True,True,True,True,True,True,True
 118/118222.jams,True,True,True,True,True,True,True,True
-118/118223.jams,False,True,True,True,False,False,True,False
+118/118223.jams,False,True,True,True,False,True,True,False
 118/118257.jams,False,False,False,False,True,True,False,True
 118/118276.jams,True,True,True,True,True,True,True,True
 118/118277.jams,False,False,False,False,True,True,False,True
@@ -5679,7 +5679,7 @@ Item,davies2009/mirex_qm_tempotracker,schreiber2018/fcn,schreiber2018/cnn,perciv
 118/118484.jams,False,True,True,True,True,True,True,True
 118/118489.jams,True,True,True,True,True,True,True,True
 118/118496.jams,True,True,True,True,True,True,True,True
-118/118498.jams,False,True,True,False,False,False,False,True
+118/118498.jams,False,True,True,False,False,True,False,True
 118/118499.jams,True,True,True,True,True,True,True,True
 118/118500.jams,True,True,True,True,True,True,True,True
 118/118502.jams,False,False,False,False,False,False,False,False
@@ -5753,7 +5753,7 @@ Item,davies2009/mirex_qm_tempotracker,schreiber2018/fcn,schreiber2018/cnn,perciv
 119/119830.jams,True,True,True,True,True,True,True,True
 119/119831.jams,False,True,True,True,True,True,True,True
 119/119893.jams,False,True,False,True,False,False,False,True
-119/119894.jams,True,False,False,True,True,True,True,False
+119/119894.jams,True,False,False,True,False,False,True,False
 119/119895.jams,False,True,True,True,True,True,True,True
 119/119896.jams,True,True,True,True,True,True,True,True
 119/119897.jams,True,True,True,True,True,True,True,True
@@ -6013,7 +6013,7 @@ Item,davies2009/mirex_qm_tempotracker,schreiber2018/fcn,schreiber2018/cnn,perciv
 122/122632.jams,False,True,True,True,True,True,True,True
 122/122633.jams,True,True,True,True,True,True,True,True
 122/122634.jams,True,True,True,False,True,True,True,True
-122/122635.jams,False,True,False,True,True,True,True,False
+122/122635.jams,False,True,False,True,False,False,True,False
 122/122644.jams,True,True,True,True,True,True,True,True
 122/122645.jams,True,True,True,True,True,True,True,True
 122/122646.jams,True,True,True,True,True,True,True,True
@@ -6150,7 +6150,7 @@ Item,davies2009/mirex_qm_tempotracker,schreiber2018/fcn,schreiber2018/cnn,perciv
 124/124391.jams,True,True,True,True,True,True,True,True
 124/124392.jams,True,True,True,True,True,True,True,True
 124/124393.jams,True,True,True,True,True,True,True,True
-124/124394.jams,False,False,False,False,True,True,True,False
+124/124394.jams,False,False,False,False,True,False,True,False
 124/124409.jams,False,False,True,False,False,False,False,False
 124/124411.jams,True,True,True,True,True,True,True,True
 124/124424.jams,True,True,True,True,True,True,True,True
@@ -6180,7 +6180,7 @@ Item,davies2009/mirex_qm_tempotracker,schreiber2018/fcn,schreiber2018/cnn,perciv
 124/124754.jams,True,True,True,True,True,True,True,True
 124/124755.jams,False,True,True,True,True,True,True,True
 124/124756.jams,True,True,True,True,True,True,True,True
-124/124870.jams,False,False,False,False,False,False,False,False
+124/124870.jams,False,False,False,False,False,True,False,False
 124/124872.jams,True,True,True,True,True,True,True,True
 124/124873.jams,True,True,True,True,True,True,True,True
 124/124874.jams,True,True,True,False,True,True,False,True
@@ -6240,7 +6240,7 @@ Item,davies2009/mirex_qm_tempotracker,schreiber2018/fcn,schreiber2018/cnn,perciv
 125/125314.jams,True,True,True,True,True,True,True,True
 125/125315.jams,True,True,True,True,True,True,True,True
 125/125333.jams,False,False,True,True,False,False,False,False
-125/125337.jams,False,False,False,False,False,False,False,False
+125/125337.jams,False,False,False,False,False,True,False,False
 125/125375.jams,True,True,True,True,True,True,True,True
 125/125377.jams,True,False,False,True,True,True,False,False
 125/125432.jams,True,True,True,True,True,True,True,True
@@ -6254,7 +6254,7 @@ Item,davies2009/mirex_qm_tempotracker,schreiber2018/fcn,schreiber2018/cnn,perciv
 125/125621.jams,True,True,True,True,True,True,True,True
 125/125622.jams,True,True,True,True,True,True,True,True
 125/125657.jams,True,True,True,True,True,True,True,True
-125/125659.jams,False,False,True,False,True,True,True,False
+125/125659.jams,False,False,True,False,False,False,True,False
 125/125680.jams,True,True,True,True,True,True,False,True
 125/125681.jams,True,True,True,True,True,True,True,True
 125/125721.jams,True,True,True,True,True,True,True,True
@@ -6311,11 +6311,11 @@ Item,davies2009/mirex_qm_tempotracker,schreiber2018/fcn,schreiber2018/cnn,perciv
 126/126219.jams,False,True,True,True,True,True,True,True
 126/126220.jams,True,True,True,True,True,True,True,True
 126/126221.jams,True,True,True,True,True,True,True,True
-126/126223.jams,True,False,False,True,True,True,False,False
+126/126223.jams,True,False,False,True,True,False,False,False
 126/126224.jams,False,True,False,False,True,True,True,True
 126/126225.jams,True,False,True,False,False,False,False,False
 126/126226.jams,True,True,True,False,True,True,True,True
-126/126227.jams,False,True,True,False,True,True,True,True
+126/126227.jams,False,True,True,False,True,False,True,True
 126/126229.jams,True,True,True,True,True,True,True,True
 126/126230.jams,False,True,False,True,True,True,True,True
 126/126231.jams,True,True,True,True,True,True,True,True
@@ -6362,7 +6362,7 @@ Item,davies2009/mirex_qm_tempotracker,schreiber2018/fcn,schreiber2018/cnn,perciv
 126/126413.jams,False,True,True,True,True,True,True,True
 126/126414.jams,True,True,True,True,True,True,True,True
 126/126415.jams,True,True,True,True,True,True,True,True
-126/126416.jams,True,True,True,True,True,True,True,True
+126/126416.jams,True,True,True,True,False,True,True,True
 126/126417.jams,True,True,True,True,True,True,True,True
 126/126425.jams,True,True,True,True,True,True,True,True
 126/126426.jams,True,True,True,True,True,True,True,True
@@ -6443,7 +6443,7 @@ Item,davies2009/mirex_qm_tempotracker,schreiber2018/fcn,schreiber2018/cnn,perciv
 126/126900.jams,True,True,True,True,True,True,True,True
 126/126944.jams,True,True,True,True,True,True,True,True
 126/126979.jams,False,True,True,True,False,False,False,True
-127/127036.jams,False,False,True,True,False,False,False,False
+127/127036.jams,False,False,True,True,False,True,False,False
 127/127037.jams,True,True,True,True,True,True,True,True
 127/127062.jams,True,True,True,True,True,True,True,True
 127/127066.jams,True,True,True,True,True,True,True,True
@@ -6538,7 +6538,7 @@ Item,davies2009/mirex_qm_tempotracker,schreiber2018/fcn,schreiber2018/cnn,perciv
 127/127648.jams,True,True,True,True,True,True,True,True
 127/127660.jams,True,True,True,True,True,True,True,True
 127/127661.jams,True,True,True,True,False,False,False,False
-127/127662.jams,False,False,False,False,False,False,False,False
+127/127662.jams,False,False,False,False,False,True,False,False
 127/127663.jams,True,True,True,True,True,True,True,True
 127/127720.jams,True,True,False,False,False,False,False,False
 127/127722.jams,False,True,True,True,True,True,True,True
@@ -6594,12 +6594,12 @@ Item,davies2009/mirex_qm_tempotracker,schreiber2018/fcn,schreiber2018/cnn,perciv
 128/128811.jams,True,True,True,True,True,True,True,True
 128/128812.jams,True,True,True,True,True,True,True,True
 128/128813.jams,False,True,True,False,True,True,True,True
-128/128814.jams,False,False,False,False,True,True,True,False
+128/128814.jams,False,False,False,False,False,False,True,False
 128/128815.jams,False,False,False,True,True,True,True,True
 128/128816.jams,False,False,False,True,False,False,False,False
 128/128825.jams,False,True,False,False,False,False,False,False
 128/128827.jams,False,True,False,False,False,False,False,False
-128/128828.jams,True,False,False,False,True,True,False,False
+128/128828.jams,True,False,False,False,True,False,False,False
 128/128835.jams,False,True,False,False,False,False,False,False
 128/128845.jams,True,True,False,True,False,False,False,False
 128/128878.jams,False,True,True,False,True,True,False,False
@@ -6615,7 +6615,7 @@ Item,davies2009/mirex_qm_tempotracker,schreiber2018/fcn,schreiber2018/cnn,perciv
 128/128992.jams,True,True,True,False,True,True,True,True
 129/129039.jams,True,True,True,True,True,True,True,True
 129/129040.jams,True,True,True,True,True,True,False,True
-129/129042.jams,False,True,False,True,True,True,False,True
+129/129042.jams,False,True,False,True,True,False,False,True
 129/129043.jams,True,True,True,True,True,True,True,True
 129/129044.jams,True,True,True,True,True,True,True,True
 129/129046.jams,True,True,True,True,True,True,True,True
@@ -6814,7 +6814,7 @@ Item,davies2009/mirex_qm_tempotracker,schreiber2018/fcn,schreiber2018/cnn,perciv
 131/131452.jams,True,True,True,True,True,True,True,True
 131/131453.jams,True,True,True,True,True,True,True,True
 131/131454.jams,True,True,True,True,True,True,True,True
-131/131476.jams,True,True,True,True,True,True,True,True
+131/131476.jams,True,True,True,True,False,False,True,True
 131/131536.jams,True,True,True,True,True,True,True,True
 131/131540.jams,False,False,False,False,False,False,False,False
 131/131552.jams,True,True,True,True,True,True,True,True
@@ -6900,7 +6900,7 @@ Item,davies2009/mirex_qm_tempotracker,schreiber2018/fcn,schreiber2018/cnn,perciv
 132/132310.jams,False,True,True,True,True,True,True,True
 132/132420.jams,True,True,True,True,True,True,True,True
 132/132424.jams,False,True,False,False,False,False,True,True
-132/132434.jams,False,False,True,False,True,True,False,False
+132/132434.jams,False,False,True,False,True,False,False,False
 132/132436.jams,False,True,False,True,True,True,False,False
 132/132448.jams,True,False,True,False,True,True,True,False
 132/132449.jams,True,False,False,False,False,False,False,False
@@ -6917,7 +6917,7 @@ Item,davies2009/mirex_qm_tempotracker,schreiber2018/fcn,schreiber2018/cnn,perciv
 132/132677.jams,False,True,True,False,True,True,True,True
 132/132678.jams,False,True,False,False,True,True,False,True
 132/132679.jams,False,False,False,False,False,False,False,False
-132/132773.jams,True,True,True,True,True,True,True,True
+132/132773.jams,True,True,True,True,True,False,True,True
 132/132774.jams,True,True,True,True,True,True,True,True
 132/132775.jams,True,True,True,True,True,True,True,True
 132/132778.jams,True,True,True,True,True,True,True,True
@@ -7008,7 +7008,7 @@ Item,davies2009/mirex_qm_tempotracker,schreiber2018/fcn,schreiber2018/cnn,perciv
 133/133564.jams,False,True,False,True,False,False,False,False
 133/133567.jams,False,False,False,True,False,False,False,False
 133/133571.jams,True,True,True,True,True,True,True,True
-133/133572.jams,True,True,False,True,True,True,True,True
+133/133572.jams,True,True,False,True,True,False,True,True
 133/133573.jams,True,True,True,True,True,True,True,True
 133/133574.jams,True,True,True,True,True,True,True,True
 133/133576.jams,True,True,True,True,True,True,False,True
@@ -7057,7 +7057,7 @@ Item,davies2009/mirex_qm_tempotracker,schreiber2018/fcn,schreiber2018/cnn,perciv
 134/134077.jams,True,True,True,True,True,True,True,True
 134/134084.jams,True,True,True,True,True,True,True,True
 134/134094.jams,False,False,False,False,False,False,False,False
-134/134359.jams,True,True,True,True,False,False,True,True
+134/134359.jams,True,True,True,True,True,True,True,True
 134/134384.jams,True,True,True,True,True,True,True,True
 134/134385.jams,True,True,True,True,True,True,True,True
 134/134388.jams,True,True,True,True,True,True,True,True
@@ -7159,7 +7159,7 @@ Item,davies2009/mirex_qm_tempotracker,schreiber2018/fcn,schreiber2018/cnn,perciv
 135/135365.jams,True,True,True,True,True,True,True,True
 135/135368.jams,True,True,True,True,True,True,True,True
 135/135369.jams,False,True,True,True,True,True,True,True
-135/135370.jams,True,False,False,True,True,True,False,True
+135/135370.jams,True,False,False,True,False,True,False,True
 135/135371.jams,True,True,True,True,True,True,True,True
 135/135372.jams,True,True,True,True,True,True,True,True
 135/135373.jams,True,True,True,True,True,True,True,True
@@ -7207,7 +7207,7 @@ Item,davies2009/mirex_qm_tempotracker,schreiber2018/fcn,schreiber2018/cnn,perciv
 137/137169.jams,False,True,True,False,True,True,True,True
 137/137170.jams,False,False,False,False,True,True,False,True
 137/137171.jams,False,False,False,False,False,False,False,False
-137/137172.jams,False,False,False,False,True,True,False,False
+137/137172.jams,False,False,False,False,False,False,False,False
 137/137173.jams,False,False,False,False,False,False,False,False
 137/137174.jams,True,True,True,True,True,True,True,True
 137/137175.jams,False,True,False,False,True,True,False,False
@@ -7231,11 +7231,11 @@ Item,davies2009/mirex_qm_tempotracker,schreiber2018/fcn,schreiber2018/cnn,perciv
 137/137551.jams,True,False,False,False,False,False,False,False
 137/137561.jams,False,False,False,False,False,False,False,False
 137/137563.jams,False,False,False,False,True,True,False,False
-137/137567.jams,False,False,True,False,False,False,True,False
+137/137567.jams,False,False,True,False,True,True,True,False
 137/137593.jams,False,True,True,True,True,True,True,True
 137/137605.jams,True,True,True,True,True,True,True,True
 137/137624.jams,True,True,True,True,True,True,True,True
-137/137627.jams,False,False,True,True,True,True,True,True
+137/137627.jams,False,False,True,True,True,False,True,True
 137/137630.jams,False,False,True,False,True,True,False,False
 137/137631.jams,True,False,False,False,False,False,False,False
 137/137632.jams,False,False,False,True,True,True,False,False
@@ -7265,11 +7265,11 @@ Item,davies2009/mirex_qm_tempotracker,schreiber2018/fcn,schreiber2018/cnn,perciv
 138/138016.jams,False,True,True,True,True,True,True,True
 138/138017.jams,True,True,True,False,True,True,True,True
 138/138018.jams,True,True,True,True,True,True,True,True
-138/138019.jams,False,False,True,True,True,True,True,False
+138/138019.jams,False,False,True,True,True,False,True,False
 138/138020.jams,True,True,True,True,True,True,True,True
 138/138021.jams,False,False,False,False,False,False,False,False
 138/138022.jams,True,True,True,True,True,True,True,True
-138/138023.jams,True,True,False,True,True,True,True,True
+138/138023.jams,True,True,False,True,True,False,True,True
 138/138024.jams,True,True,True,True,True,True,True,True
 138/138025.jams,True,True,True,True,True,True,True,True
 138/138026.jams,True,True,True,True,True,True,True,True
@@ -7625,7 +7625,7 @@ Item,davies2009/mirex_qm_tempotracker,schreiber2018/fcn,schreiber2018/cnn,perciv
 144/144469.jams,False,True,True,True,True,True,True,True
 144/144470.jams,True,True,True,True,True,True,True,True
 144/144471.jams,True,True,True,True,True,True,True,True
-144/144472.jams,True,True,True,False,False,False,True,False
+144/144472.jams,True,True,True,False,False,True,True,False
 144/144473.jams,True,True,False,False,True,True,True,True
 144/144474.jams,True,True,True,True,True,True,True,True
 144/144475.jams,True,True,True,True,True,True,True,True
@@ -7790,7 +7790,7 @@ Item,davies2009/mirex_qm_tempotracker,schreiber2018/fcn,schreiber2018/cnn,perciv
 146/146961.jams,True,True,True,True,True,True,True,True
 146/146968.jams,True,True,True,True,True,True,True,True
 146/146969.jams,True,True,True,True,True,True,True,True
-146/146970.jams,False,True,True,False,False,False,False,True
+146/146970.jams,False,True,True,False,False,True,False,True
 146/146988.jams,True,True,True,True,True,True,True,True
 146/146989.jams,False,False,False,False,False,False,False,False
 147/147020.jams,True,True,True,True,True,True,True,True

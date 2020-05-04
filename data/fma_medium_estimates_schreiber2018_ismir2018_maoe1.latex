@@ -3,11 +3,11 @@
 {} &  AOE1\_MEAN &  AOE1\_STDEV &  AOE2\_MEAN &  AOE2\_STDEV \\
 Estimator                           &            &             &            &             \\
 \midrule
+schreiber2017/ismir2017             &   0.212069 &    0.384864 &   0.045413 &    0.112849 \\
 schreiber2014/default               &   0.217354 &    0.376800 &   0.044300 &    0.109347 \\
+schreiber2017/mirex2017             &   0.234811 &    0.428208 &   0.046098 &    0.122164 \\
 percival2014/stem                   &   0.240893 &    0.407454 &   0.048458 &    0.138742 \\
 davies2009/mirex\_qm\_tempotracker    &   0.252026 &    0.381547 &   0.076606 &    0.128510 \\
-schreiber2017/ismir2017             &   0.258996 &    0.453743 &   0.046825 &    0.127525 \\
-schreiber2017/mirex2017             &   0.267417 &    0.464293 &   0.046588 &    0.128204 \\
 boeck2015/tempodetector2016\_default &   0.270337 &    0.425653 &   0.044405 &    0.103263 \\
 \bottomrule
 \end{tabular}

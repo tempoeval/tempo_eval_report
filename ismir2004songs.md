@@ -314,20 +314,20 @@ Reports for other corpora may be found [here](index.md).
 | Estimator| Size | Min | Max | Avg | Stdev | Sweet Oct. Start | Sweet Oct. Coverage |
 | ---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | [alonso2004/ismir2004_corr](#alonso2004ismir2004_corr) |   465   |   57.78   |   245.89   |   131.76   |   49.76   |   92.00   |   0.60   |
-| [alonso2004/ismir2004_spec](#alonso2004ismir2004_spec) |   465   |   0.00   |   249.17   |   105.42   |   46.76   |   61.00   |   0.59   |
+| [alonso2004/ismir2004_spec](#alonso2004ismir2004_spec) |   459   |   50.06   |   249.17   |   106.80   |   45.47   |   61.00   |   0.59   |
 | [boeck2015/tempodetector2016_default](#boeck2015tempodetector2016_default) |   465   |   45.11   |   240.00   |   120.93   |   37.09   |   79.00   |   0.76   |
 | [davies2009/mirex_qm_tempotracker](#davies2009mirex_qm_tempotracker) |   465   |   65.42   |   246.09   |   126.75   |   31.62   |   84.00   |   0.86   |
 | [dixon2001/ismir2004_indu](#dixon2001ismir2004_indu) |   465   |   50.09   |   248.80   |   127.38   |   53.03   |   91.00   |   0.51   |
-| [dixon2001/ismir2004_trac](#dixon2001ismir2004_trac) |   465   |   0.00   |   248.47   |   152.10   |   52.43   |   121.00   |   0.76   |
+| [dixon2001/ismir2004_trac](#dixon2001ismir2004_trac) |   448   |   54.97   |   248.47   |   157.87   |   44.05   |   121.00   |   0.79   |
 | [dixon2003/ismir2004_auco](#dixon2003ismir2004_auco) |   465   |   60.00   |   249.00   |   163.38   |   44.85   |   124.00   |   0.81   |
 | [echonest/version_3_2_1](#echonestversion_3_2_1)   |   465   |   53.59   |   198.29   |   99.03   |   30.86   |   64.00   |   0.76   |
-| [gkiokas2012/default](#gkiokas2012default)         |   465   |   0.00   |   248.00   |   114.05   |   36.70   |   76.00   |   0.74   |
+| [gkiokas2012/default](#gkiokas2012default)         |   464   |   45.00   |   248.00   |   114.30   |   36.35   |   76.00   |   0.74   |
 | [klapuri2006/ismir2004](#klapuri2006ismir2004)     |   465   |   66.00   |   164.00   |   111.45   |   21.14   |   79.00   |   0.96   |
-| [klapuri2006/percival2014](#klapuri2006percival2014) |   465   |   0.00   |   164.06   |   110.60   |   21.24   |   76.00   |   0.97   |
+| [klapuri2006/percival2014](#klapuri2006percival2014) |   464   |   68.45   |   164.06   |   110.83   |   20.63   |   76.00   |   0.97   |
 | [oliveira2010/ibt](#oliveira2010ibt)               |   465   |   81.00   |   161.00   |   115.72   |   21.86   |   81.00   |   1.00   |
 | [percival2014/stem](#percival2014stem)             |   465   |   51.55   |   159.01   |   101.36   |   22.21   |   70.00   |   0.89   |
 | [scheirer1998/ismir2004](#scheirer1998ismir2004)   |   465   |   51.50   |   220.00   |   106.08   |   35.85   |   66.00   |   0.69   |
-| [scheirer1998/percival2014](#scheirer1998percival2014) |   465   |   0.00   |   181.82   |   93.24   |   41.54   |   77.00   |   0.70   |
+| [scheirer1998/percival2014](#scheirer1998percival2014) |   416   |   61.35   |   181.82   |   104.23   |   27.96   |   77.00   |   0.79   |
 | [schreiber2014/default](#schreiber2014default)     |   465   |   43.49   |   161.46   |   97.19   |   21.57   |   68.00   |   0.89   |
 | [schreiber2017/ismir2017](#schreiber2017ismir2017) |   465   |   48.81   |   200.14   |   98.49   |   23.27   |   68.00   |   0.87   |
 | [schreiber2017/mirex2017](#schreiber2017mirex2017) |   465   |   39.09   |   185.87   |   90.89   |   26.18   |   61.00   |   0.75   |
@@ -338,7 +338,7 @@ Reports for other corpora may be found [here](index.md).
 | [tzanetakis2002/ismir2004_mmul](#tzanetakis2002ismir2004_mmul) |   465   |   52.00   |   240.00   |   140.89   |   45.67   |   113.00   |   0.67   |
 | [tzanetakis2002/ismir2004_msum](#tzanetakis2002ismir2004_msum) |   465   |   50.00   |   248.00   |   135.23   |   53.03   |   117.00   |   0.55   |
 | [uhle2004/ismir2004](#uhle2004ismir2004)           |   465   |   51.00   |   248.00   |   119.77   |   41.23   |   77.00   |   0.74   |
-| [zplane/auftakt_v3](#zplaneauftakt_v3)             |   465   |   0.00   |   164.50   |   108.98   |   24.10   |   79.00   |   0.89   |
+| [zplane/auftakt_v3](#zplaneauftakt_v3)             |   464   |   65.90   |   164.50   |   109.22   |   23.58   |   79.00   |   0.89   |
 
 <a name="table2"></a>Table 2: Basic statistics.
 
@@ -358,7 +358,7 @@ Reports for other corpora may be found [here](index.md).
 
 Accuracy<sub>1</sub> is defined as the percentage of correct estimates, allowing a 4% tolerance for individual BPM values.
 
-Accuracy<sub>2</sub> additionally permits estimates to be wrong by a factor of 2, 3, &frac12; or &frac13; (so-called *octave errors*).
+Accuracy<sub>2</sub> additionally permits estimates to be wrong by a factor of 2, 3, 1/2 or 1/3 (so-called *octave errors*).
 
 See [[Gouyon2006](bib/Gouyon2006.bib)].
 
@@ -783,7 +783,7 @@ Predictions of GAMs trained on Accuracy<sub>2</sub> for estimates for reference 
 
 OE<sub>1</sub> is defined as octave error between an estimate <code>E</code> and a reference value <code>R</code>.This means that the most common errors&mdash;by a factor of 2 or &frac12;&mdash;have the same magnitude, namely 1: <code>OE<sub>2</sub>(E) = log<sub>2</sub>(E/R)</code>.
 
-OE<sub>2</sub> is the signed OE<sub>1</sub> corresponding to the minimum absolute OE<sub>1</sub> allowing the octaveerrors 2, 3, &frac12;, and &frac13;: <code>OE<sub>2</sub>(E) = arg min<sub>x</sub>(|x|) with x ∈ {OE<sub>1</sub>(E), OE<sub>1</sub>(2E), OE<sub>1</sub>(3E), OE<sub>1</sub>(&frac12;E), OE<sub>1</sub>(&frac13;E)}</code>
+OE<sub>2</sub> is the signed OE<sub>1</sub> corresponding to the minimum absolute OE<sub>1</sub> allowing the octaveerrors 2, 3, 1/2, and 1/3: <code>OE<sub>2</sub>(E) = arg min<sub>x</sub>(|x|) with x ∈ {OE<sub>1</sub>(E), OE<sub>1</sub>(2E), OE<sub>1</sub>(3E), OE<sub>1</sub>(&frac12;E), OE<sub>1</sub>(&frac13;E)}</code>
 
 ### Mean OE<sub>1</sub>/OE<sub>2</sub> Results for 1.0
 
@@ -976,7 +976,7 @@ Predictions of GAMs trained on OE<sub>2</sub> for estimates for reference [1.0](
 
 AOE<sub>1</sub> is defined as absolute octave error between an estimate and a reference value: <code>AOE<sub>1</sub>(E) = |log<sub>2</sub>(E/R)|</code>.
 
-AOE<sub>2</sub> is the minimum of AOE<sub>1</sub> allowing the octave errors 2, 3, &frac12;, and &frac13;: <code>AOE<sub>2</sub>(E) = min(AOE<sub>1</sub>(E), AOE<sub>1</sub>(2E), AOE<sub>1</sub>(3E), AOE<sub>1</sub>(&frac12;E), AOE<sub>1</sub>(&frac13;E))</code>.
+AOE<sub>2</sub> is the minimum of AOE<sub>1</sub> allowing the octave errors 2, 3, 1/2, and 1/3: <code>AOE<sub>2</sub>(E) = min(AOE<sub>1</sub>(E), AOE<sub>1</sub>(2E), AOE<sub>1</sub>(3E), AOE<sub>1</sub>(&frac12;E), AOE<sub>1</sub>(&frac13;E))</code>.
 
 ### Mean AOE<sub>1</sub>/AOE<sub>2</sub> Results for 1.0
 
@@ -1166,4 +1166,4 @@ Predictions of GAMs trained on AOE<sub>2</sub> for estimates for reference [1.0]
 [CSV](data/ismir2004songs_estimates_1.0_tempo_gam_aoe2.csv "Download data as CSV") [JSON](data/ismir2004songs_estimates_1.0_tempo_gam_aoe2.json "Download data as JSON") [LATEX](data/ismir2004songs_estimates_1.0_tempo_gam_aoe2.latex "Download data as LATEX") [PICKLE](data/ismir2004songs_estimates_1.0_tempo_gam_aoe2.pickle "Download data as PICKLE") [SVG](figures/ismir2004songs_estimates_1.0_tempo_gam_aoe2.svg "Open Figure") [PDF](figures/ismir2004songs_estimates_1.0_tempo_gam_aoe2.pdf "Open Figure") [PNG](figures/ismir2004songs_estimates_1.0_tempo_gam_aoe2.png "Open Figure") 
 
 -------------------------
-Generated by [tempo_eval](https://tempoeval.github.io/tempo_eval/) 0.1.0 on 2020-05-04 17:53. Size L.
+Generated by [tempo_eval](https://tempoeval.github.io/tempo_eval/) 0.1.0 on 2020-05-05 19:24. Size L.

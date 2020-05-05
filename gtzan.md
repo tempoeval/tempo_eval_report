@@ -291,12 +291,12 @@ Reports for other corpora may be found [here](index.md).
 | [boeck2019/multi_task](#boeck2019multi_task)       |   999   |   35.12   |   205.35   |   99.69   |   27.40   |   67.00   |   0.81   |
 | [boeck2019/multi_task_hjdb](#boeck2019multi_task_hjdb) |   999   |   35.24   |   205.22   |   98.14   |   27.45   |   67.00   |   0.80   |
 | [davies2009/mirex_qm_tempotracker](#davies2009mirex_qm_tempotracker) |   1000   |   63.02   |   258.40   |   122.69   |   27.27   |   84.00   |   0.90   |
-| [echonest/version_3_2_1](#echonestversion_3_2_1)   |   1000   |   0.00   |   199.68   |   104.18   |   27.71   |   67.00   |   0.80   |
+| [echonest/version_3_2_1](#echonestversion_3_2_1)   |   999   |   50.00   |   199.68   |   104.28   |   27.52   |   67.00   |   0.80   |
 | [gkiokas2012/default](#gkiokas2012default)         |   1000   |   31.00   |   246.00   |   107.52   |   30.05   |   71.00   |   0.80   |
 | [klapuri2006/percival2014](#klapuri2006percival2014) |   1000   |   62.64   |   161.50   |   110.85   |   20.30   |   76.00   |   0.95   |
 | [oliveira2010/ibt](#oliveira2010ibt)               |   1000   |   80.00   |   161.00   |   116.43   |   20.75   |   81.00   |   1.00   |
 | [percival2014/stem](#percival2014stem)             |   1000   |   50.42   |   154.27   |   102.55   |   21.52   |   71.00   |   0.92   |
-| [scheirer1998/percival2014](#scheirer1998percival2014) |   1000   |   0.00   |   179.81   |   101.55   |   31.27   |   64.00   |   0.78   |
+| [scheirer1998/percival2014](#scheirer1998percival2014) |   979   |   61.35   |   179.81   |   103.73   |   27.80   |   64.00   |   0.80   |
 | [schreiber2014/default](#schreiber2014default)     |   1000   |   52.05   |   163.94   |   101.61   |   21.62   |   71.00   |   0.91   |
 | [schreiber2017/ismir2017](#schreiber2017ismir2017) |   1000   |   40.53   |   202.66   |   102.97   |   22.44   |   70.00   |   0.90   |
 | [schreiber2017/mirex2017](#schreiber2017mirex2017) |   1000   |   20.27   |   202.35   |   98.19   |   25.01   |   70.00   |   0.83   |
@@ -323,7 +323,7 @@ Reports for other corpora may be found [here](index.md).
 
 Accuracy<sub>1</sub> is defined as the percentage of correct estimates, allowing a 4% tolerance for individual BPM values.
 
-Accuracy<sub>2</sub> additionally permits estimates to be wrong by a factor of 2, 3, &frac12; or &frac13; (so-called *octave errors*).
+Accuracy<sub>2</sub> additionally permits estimates to be wrong by a factor of 2, 3, 1/2 or 1/3 (so-called *octave errors*).
 
 See [[Gouyon2006](bib/Gouyon2006.bib)].
 
@@ -1744,7 +1744,7 @@ How well does an estimator perform, when only taking tracks into account that ar
 
 OE<sub>1</sub> is defined as octave error between an estimate <code>E</code> and a reference value <code>R</code>.This means that the most common errors&mdash;by a factor of 2 or &frac12;&mdash;have the same magnitude, namely 1: <code>OE<sub>2</sub>(E) = log<sub>2</sub>(E/R)</code>.
 
-OE<sub>2</sub> is the signed OE<sub>1</sub> corresponding to the minimum absolute OE<sub>1</sub> allowing the octaveerrors 2, 3, &frac12;, and &frac13;: <code>OE<sub>2</sub>(E) = arg min<sub>x</sub>(|x|) with x ∈ {OE<sub>1</sub>(E), OE<sub>1</sub>(2E), OE<sub>1</sub>(3E), OE<sub>1</sub>(&frac12;E), OE<sub>1</sub>(&frac13;E)}</code>
+OE<sub>2</sub> is the signed OE<sub>1</sub> corresponding to the minimum absolute OE<sub>1</sub> allowing the octaveerrors 2, 3, 1/2, and 1/3: <code>OE<sub>2</sub>(E) = arg min<sub>x</sub>(|x|) with x ∈ {OE<sub>1</sub>(E), OE<sub>1</sub>(2E), OE<sub>1</sub>(3E), OE<sub>1</sub>(&frac12;E), OE<sub>1</sub>(&frac13;E)}</code>
 
 ### Mean OE<sub>1</sub>/OE<sub>2</sub> Results for 1.0
 
@@ -2600,7 +2600,7 @@ How well does an estimator perform, when only taking tracks into account that ar
 
 AOE<sub>1</sub> is defined as absolute octave error between an estimate and a reference value: <code>AOE<sub>1</sub>(E) = |log<sub>2</sub>(E/R)|</code>.
 
-AOE<sub>2</sub> is the minimum of AOE<sub>1</sub> allowing the octave errors 2, 3, &frac12;, and &frac13;: <code>AOE<sub>2</sub>(E) = min(AOE<sub>1</sub>(E), AOE<sub>1</sub>(2E), AOE<sub>1</sub>(3E), AOE<sub>1</sub>(&frac12;E), AOE<sub>1</sub>(&frac13;E))</code>.
+AOE<sub>2</sub> is the minimum of AOE<sub>1</sub> allowing the octave errors 2, 3, 1/2, and 1/3: <code>AOE<sub>2</sub>(E) = min(AOE<sub>1</sub>(E), AOE<sub>1</sub>(2E), AOE<sub>1</sub>(3E), AOE<sub>1</sub>(&frac12;E), AOE<sub>1</sub>(&frac13;E))</code>.
 
 ### Mean AOE<sub>1</sub>/AOE<sub>2</sub> Results for 1.0
 
@@ -3453,4 +3453,4 @@ How well does an estimator perform, when only taking tracks into account that ar
 [SVG](figures/gtzan_estimates_1.0_tag_gtzan_GTZAN-Rhythm_v2_ismir2015_lbd_2015-10-28_ICBI_aoe2.svg "Open Figure") [PDF](figures/gtzan_estimates_1.0_tag_gtzan_GTZAN-Rhythm_v2_ismir2015_lbd_2015-10-28_ICBI_aoe2.pdf "Open Figure") [PNG](figures/gtzan_estimates_1.0_tag_gtzan_GTZAN-Rhythm_v2_ismir2015_lbd_2015-10-28_ICBI_aoe2.png "Open Figure") 
 
 -------------------------
-Generated by [tempo_eval](https://tempoeval.github.io/tempo_eval/) 0.1.0 on 2020-05-04 17:42. Size L.
+Generated by [tempo_eval](https://tempoeval.github.io/tempo_eval/) 0.1.0 on 2020-05-05 19:13. Size L.

@@ -3,6 +3,7 @@
 {} &  Accuracy1 &  Accuracy2 \\
 Estimator                           &            &            \\
 \midrule
+boeck2020/dar                       &   0.851351 &   0.945946 \\
 boeck2015/tempodetector2016\_default &   0.851351 &   0.927928 \\
 boeck2019/multi\_task\_hjdb           &   0.833333 &   0.932432 \\
 boeck2019/multi\_task                &   0.824324 &   0.932432 \\

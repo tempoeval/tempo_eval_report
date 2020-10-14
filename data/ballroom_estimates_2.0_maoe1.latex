@@ -3,6 +3,7 @@
 {} &  AOE1\_MEAN &  AOE1\_STDEV &  AOE2\_MEAN &  AOE2\_STDEV \\
 Estimator                           &            &             &            &             \\
 \midrule
+boeck2020/dar                       &   0.013109 &    0.084703 &   0.005853 &    0.005808 \\
 boeck2019/multi\_task                &   0.020311 &    0.119065 &   0.005901 &    0.006086 \\
 boeck2019/multi\_task\_hjdb           &   0.021138 &    0.121317 &   0.006289 &    0.013809 \\
 schreiber2018/cnn                   &   0.034420 &    0.157619 &   0.009578 &    0.029444 \\

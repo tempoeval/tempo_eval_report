@@ -3,6 +3,7 @@
 {} &  AOE1\_MEAN &  AOE1\_STDEV &  AOE2\_MEAN &  AOE2\_STDEV \\
 Estimator                           &            &             &            &             \\
 \midrule
+boeck2020/dar                       &   0.136701 &    0.338963 &   0.015503 &    0.063161 \\
 schreiber2018/ismir2018             &   0.200196 &    0.384810 &   0.028047 &    0.088154 \\
 schreiber2018/cnn                   &   0.215404 &    0.402966 &   0.021973 &    0.073626 \\
 boeck2015/tempodetector2016\_default &   0.216357 &    0.414844 &   0.020595 &    0.065626 \\

@@ -3,6 +3,7 @@
 {} &  Accuracy1 &  Accuracy2 \\
 Estimator                           &            &            \\
 \midrule
+sun2021/default                     &   0.804217 &   0.909639 \\
 schreiber2018/fcn                   &   0.798193 &   0.906627 \\
 schreiber2017/mirex2017             &   0.769578 &   0.891566 \\
 boeck2020/dar                       &   0.765060 &   0.891566 \\

@@ -3,6 +3,7 @@
 {} &  Accuracy1 &  Accuracy2 \\
 Estimator                           &            &            \\
 \midrule
+sun2021/default                     &   0.944126 &   0.958453 \\
 boeck2019/multi\_task                &   0.936963 &   0.949857 \\
 boeck2020/dar                       &   0.936963 &   0.945559 \\
 schreiber2018/cnn                   &   0.934097 &   0.957020 \\
